@@ -1,0 +1,31 @@
+
+state={
+	id=320
+	name="STATE_320"
+
+	history={
+		owner = X10
+		victory_points = {
+			10062 6 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 3
+			dockyard = 1
+			10062 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		10062 
+	}
+	manpower=1312282
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

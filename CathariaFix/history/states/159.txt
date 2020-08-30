@@ -1,0 +1,35 @@
+
+state={
+	id=159
+	name="STATE_159"
+	resources={
+		aluminium=2.000
+		steel=12.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			5069 9 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 5
+			arms_factory = 1
+			dockyard = 6
+			5069 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		1028 1064 1151 4068 4910 5069 7073 7156 10097 11999 12002 12071 12889 
+	}
+	manpower=1973100
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=282
+	name="STATE_282"
+
+	history={
+		owner = GER
+		victory_points = {
+			6626 6 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 2
+			6626 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = CRO
+		add_core_of = GER
+		add_core_of = ITA
+		add_core_of = X41
+	}
+
+	provinces={
+		599 6626 11564 11595 11735 
+	}
+	manpower=2290741
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

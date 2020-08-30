@@ -1,0 +1,32 @@
+
+state={
+	id=279
+	name="STATE_279"
+	resources={
+		oil=0.000
+		steel=3.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			6562 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = X46
+	}
+
+	provinces={
+		421 6562 6590 
+	}
+	manpower=538668
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

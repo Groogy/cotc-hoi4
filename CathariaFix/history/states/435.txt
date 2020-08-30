@@ -1,0 +1,33 @@
+
+state={
+	id=435
+	name="STATE_435"
+	resources={
+		rubber=10.000
+	}
+
+	history={
+		owner = X15
+		victory_points = {
+			1518 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			1518 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = X15
+	}
+
+	provinces={
+		1484 1505 1518 4493 4537 
+	}
+	manpower=83364
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=556
+	name="STATE_556"
+	resources={
+		steel=32.000
+	}
+
+	history={
+		owner = X25
+		victory_points = {
+			740 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 2
+			740 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X25
+	}
+
+	provinces={
+		740 790 798 813 871 899 915 932 948 3735 3737 3816 3902 3909 3931 3933 3954 6756 6878 6901 6903 7213 9812 9813 9840 9842 9857 11737 11793 11819 11821 11838 13222 13223 13225 13233 
+	}
+	manpower=1813595
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

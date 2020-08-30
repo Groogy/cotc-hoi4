@@ -1,0 +1,36 @@
+
+state={
+	id=714
+	name="STATE_714"
+	resources={
+		aluminium=5.000
+		chromium=12.000
+		steel=13.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = X42
+		victory_points = {
+			10255 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			10152 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = X42
+	}
+
+	provinces={
+		1228 1430 4237 4321 4365 4414 5032 7090 7297 7310 7340 7372 10001 10152 10255 10296 10756 10897 11924 11978 12180 12241 12462 12779 
+	}
+	manpower=1240764
+	buildings_max_level_factor=1.000
+	state_category=city
+}

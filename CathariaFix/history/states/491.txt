@@ -1,0 +1,30 @@
+
+state={
+	id=491
+	name="STATE_491"
+	resources={
+		aluminium=9.000
+	}
+
+	history={
+		owner = SWI
+		victory_points = {
+			9620 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = SWI
+	}
+
+	provinces={
+		6683 9618 9620 9638 
+	}
+	manpower=190835
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

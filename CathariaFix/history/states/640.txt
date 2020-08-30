@@ -1,0 +1,31 @@
+
+state={
+	id=640
+	name="STATE_640"
+	resources={
+		aluminium=5.000
+		chromium=1.000
+	}
+
+	history={
+		owner = X38
+		victory_points = {
+			11149 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X38
+	}
+
+	provinces={
+		45 272 359 3103 3139 3264 6124 6171 6191 6224 6372 6383 9146 9192 9214 9270 9370 9390 9402 11087 11149 11255 11263 11286 11354 
+	}
+	manpower=10190
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

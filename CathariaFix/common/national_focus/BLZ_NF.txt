@@ -1,0 +1,99 @@
+focus_tree = {
+	id = BLZ_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = BLZ
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarU78BLZ
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarU78
+		bypass = {
+			has_war_with = U78
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1938.6.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with United States of Central America" }
+			create_wargoal = {
+				type = annex_everything
+				target = U78
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = U78 ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = X04
+					has_war_with = X24
+					has_war_with = X49
+					has_war_with = X51
+				}
+			}
+		}
+	}
+
+	focus = {
+		id = NeighborWarX04BLZ
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX04
+		bypass = {
+			has_war_with = X04
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1937.2.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Chactemal" }
+			create_wargoal = {
+				type = annex_everything
+				target = X04
+			}
+		}
+		ai_will_do = {
+			factor = 5
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X04 ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = U78
+					has_war_with = X24
+					has_war_with = X49
+					has_war_with = X51
+				}
+			}
+		}
+	}
+
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=763
+	name="STATE_763"
+	resources={
+		chromium=1.000
+		oil=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = X47
+		victory_points = {
+			12910 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			2219 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = X47
+	}
+
+	provinces={
+		1773 2205 2219 5138 5183 5197 5211 5225 7567 7623 8165 8186 8206 8220 10925 10927 12906 12910 12918 12924 
+	}
+	manpower=595421
+	buildings_max_level_factor=1.000
+	state_category=town
+}

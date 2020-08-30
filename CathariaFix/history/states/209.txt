@@ -1,0 +1,30 @@
+
+state={
+	id=209
+	name="STATE_209"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			2126 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		1552 2126 4735 
+	}
+	manpower=192594
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

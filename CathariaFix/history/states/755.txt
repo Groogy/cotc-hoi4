@@ -1,0 +1,31 @@
+
+state={
+	id=755
+	name="STATE_755"
+	resources={
+		oil=1.000
+		steel=9.000
+	}
+
+	history={
+		owner = X46
+		victory_points = {
+			3569 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = X46
+	}
+
+	provinces={
+		557 569 3414 3553 3569 3583 6485 6576 9551 9567 11511 
+	}
+	manpower=969189
+	buildings_max_level_factor=1.000
+	state_category=city
+}

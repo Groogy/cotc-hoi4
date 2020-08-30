@@ -1,0 +1,33 @@
+
+state={
+	id=787
+	name="STATE_787"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = X54
+		victory_points = {
+			12969 12 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 8
+			arms_factory = 2
+			2156 = {
+				naval_base = 10
+			}
+			air_base = 8
+
+		}
+		add_core_of = X54
+	}
+
+	provinces={
+		2156 5162 12969 
+	}
+	manpower=1801949
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

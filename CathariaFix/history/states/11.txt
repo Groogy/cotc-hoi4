@@ -1,0 +1,31 @@
+
+state={
+	id=11
+	name="STATE_11"
+
+	history={
+		owner = BLZ
+		victory_points = {
+			4887 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 2
+			12712 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = BLZ
+	}
+
+	provinces={
+		4887 8236 10832 12712 12755 
+	}
+	manpower=1094427
+	buildings_max_level_factor=1.000
+	state_category=city
+}

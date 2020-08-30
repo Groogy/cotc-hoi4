@@ -1,0 +1,30 @@
+
+state={
+	id=59
+	name="STATE_59"
+
+	history={
+		owner = CAN
+		victory_points = {
+			1426 9 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 0
+			1426 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = CAN
+	}
+
+	provinces={
+		1426 1785 
+	}
+	manpower=397690
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

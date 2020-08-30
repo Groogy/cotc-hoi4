@@ -1,0 +1,33 @@
+
+state={
+	id=56
+	name="STATE_56"
+	resources={
+		rubber=0.000
+		steel=2.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = BRM
+		victory_points = {
+			10344 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = BRM
+		add_core_of = X02
+	}
+
+	provinces={
+		1333 1650 4059 10283 10344 12284 
+	}
+	manpower=152605
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

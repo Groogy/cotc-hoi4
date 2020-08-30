@@ -1,0 +1,36 @@
+
+state={
+	id=473
+	name="STATE_473"
+	resources={
+		aluminium=1.000
+		oil=3.000
+		steel=4.000
+	}
+
+	history={
+		owner = ROM
+		victory_points = {
+			9771 2 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			9783 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = BUL
+	}
+
+	provinces={
+		649 793 3796 3819 3952 6842 9610 9612 9769 9771 9783 11754 
+	}
+	manpower=717229
+	buildings_max_level_factor=1.000
+	state_category=town
+}

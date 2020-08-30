@@ -1,0 +1,35 @@
+
+state={
+	id=657
+	name="STATE_657"
+	resources={
+		aluminium=3.000
+		rubber=1.000
+		steel=0.000
+	}
+
+	history={
+		owner = X41
+		victory_points = {
+			10803 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 2
+			10803 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		5013 8065 10803 
+	}
+	manpower=589575
+	buildings_max_level_factor=1.000
+	state_category=city
+}

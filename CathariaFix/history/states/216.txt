@@ -1,0 +1,32 @@
+
+state={
+	id=216
+	name="STATE_216"
+	resources={
+		aluminium=3.000
+		rubber=2.000
+		steel=2.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			1975 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		1975 2056 12707 
+	}
+	manpower=424930
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

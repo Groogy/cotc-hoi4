@@ -1,0 +1,29 @@
+
+state={
+	id=641
+	name="STATE_641"
+
+	history={
+		owner = X39
+		victory_points = {
+			3415 8 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = SIB
+		add_core_of = X39
+		add_core_of = X40
+	}
+
+	provinces={
+		3415 10564 12545 
+	}
+	manpower=30882
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

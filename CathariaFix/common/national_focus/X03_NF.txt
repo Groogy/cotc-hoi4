@@ -1,0 +1,97 @@
+focus_tree = {
+	id = X03_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = X03
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarINSX03
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarINS
+		bypass = {
+			has_war_with = INS
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1937.1.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Java" }
+			create_wargoal = {
+				type = annex_everything
+				target = INS
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = INS ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = PHI
+					has_war_with = X16
+					has_war_with = X23
+				}
+			}
+		}
+	}
+
+	focus = {
+		id = NeighborWarPHIX03
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarPHI
+		bypass = {
+			has_war_with = PHI
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1937.1.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Philippines" }
+			create_wargoal = {
+				type = annex_everything
+				target = PHI
+			}
+		}
+		ai_will_do = {
+			factor = 5
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = PHI ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = INS
+					has_war_with = X16
+					has_war_with = X23
+				}
+			}
+		}
+	}
+
+}

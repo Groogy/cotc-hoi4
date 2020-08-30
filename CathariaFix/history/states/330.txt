@@ -1,0 +1,33 @@
+
+state={
+	id=330
+	name="STATE_330"
+	resources={
+		aluminium=8.000
+		rubber=0.000
+		steel=4.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			5092 9 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 6
+			arms_factory = 6
+			air_base = 4
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		1458 1976 2006 4256 5007 5092 7208 7301 7314 7406 7659 8049 10257 10733 10880 12156 12356 12408 12713 
+	}
+	manpower=4558213
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

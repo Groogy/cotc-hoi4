@@ -1,0 +1,32 @@
+
+state={
+	id=617
+	name="STATE_617"
+
+	history={
+		owner = X37
+		victory_points = {
+			705 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			3686 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X11
+		add_core_of = X37
+	}
+
+	provinces={
+		705 3686 3722 6704 6724 9677 9680 9718 11649 
+	}
+	manpower=368941
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

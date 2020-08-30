@@ -1,0 +1,81 @@
+focus_tree = {
+	id = CAL_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = CAL
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarX24CAL
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX24
+		bypass = {
+			has_war_with = X24
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1940.10.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Wichita" }
+			create_wargoal = {
+				type = annex_everything
+				target = X24
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X24 ratio < 0.8 }
+			}
+		}
+	}
+
+	focus = {
+		id = NeighborWarX51CAL
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX51
+		bypass = {
+			has_war_with = X51
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1937.11.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Sant Andrieu" }
+			create_wargoal = {
+				type = annex_everything
+				target = X51
+			}
+		}
+		ai_will_do = {
+			factor = 5
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X51 ratio < 0.8 }
+			}
+		}
+	}
+
+}

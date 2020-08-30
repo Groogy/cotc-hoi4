@@ -1,0 +1,37 @@
+
+state={
+	id=555
+	name="STATE_555"
+	resources={
+		aluminium=135.000
+		steel=43.000
+	}
+
+	history={
+		owner = X25
+		victory_points = {
+			11834 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			3928 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = FRA
+		add_core_of = ITA
+		add_core_of = X25
+	}
+
+	provinces={
+		911 956 958 3928 3959 3961 9728 9909 11711 11713 11834 11849 11875 11877 
+	}
+	manpower=2860209
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=204
+	name="STATE_204"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			4879 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+			12921 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		4879 8136 10957 10978 12519 12921 13217 
+	}
+	manpower=452620
+	buildings_max_level_factor=1.000
+	state_category=town
+}

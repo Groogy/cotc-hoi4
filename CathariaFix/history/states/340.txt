@@ -1,0 +1,35 @@
+
+state={
+	id=340
+	name="STATE_340"
+	resources={
+		steel=1.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			1177 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			1177 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = JAP
+		add_core_of = X10
+	}
+
+	provinces={
+		1177 
+	}
+	manpower=481617
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=414
+	name="STATE_414"
+
+	history={
+		owner = X11
+		victory_points = {
+			7837 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SIB
+		add_core_of = X11
+		add_core_of = X39
+		add_core_of = X40
+	}
+
+	provinces={
+		1664 1684 1757 1784 4715 4761 4817 7689 7738 7768 7837 7867 9142 10536 10592 10620 12517 12574 12602 12672 
+	}
+	manpower=272673
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

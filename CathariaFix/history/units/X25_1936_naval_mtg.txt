@@ -1,0 +1,79 @@
+units = {
+	fleet = {
+		name = "Atlantic Fleet"
+		naval_base = 9737
+		task_force = {
+			name = "Atlantic Fleet"
+			location = 9737
+			ship = { name = "3rd La Rocella Dreadnought" definition = battleship start_experience_factor = 0.28929 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "4th Brest Dreadnought" definition = battleship start_experience_factor = 0.2825 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Barcelona Dreadnought" definition = battleship start_experience_factor = 0.22202 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Castellï¿½ Dreadnought" definition = battleship start_experience_factor = 0.25081 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "4th La Rocella Dreadnought" definition = battleship start_experience_factor = 0.25785 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Castellï¿½ Dreadnought" definition = battleship start_experience_factor = 0.23312 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Narbona Dreadnought" definition = battleship start_experience_factor = 0.21872 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Frejus Dreadnought" definition = battleship start_experience_factor = 0.24094 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "4th Rouen Dreadnought" definition = battleship start_experience_factor = 0.26713 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "5th La Roche Dreadnought" definition = battleship start_experience_factor = 0.2991 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "5th La Rocella Dreadnought" definition = battleship start_experience_factor = 0.27173 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Bilbao Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Bresilianda" definition = battleship start_experience_factor = 0.07946 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Blanquet" definition = battleship start_experience_factor = 0.07952 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Alaricus" definition = battleship start_experience_factor = 0.09294 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Arvernia" definition = battleship start_experience_factor = 0.09673 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Cassivellaunus" definition = battleship start_experience_factor = 0.09012 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Magetobriga" definition = battleship start_experience_factor = 0.09368 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Orgetorix" definition = battleship start_experience_factor = 0.09606 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Cisalpina" definition = battleship start_experience_factor = 0.09741 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Septimania" definition = battleship start_experience_factor = 0.1 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Rouen Dreadnought" definition = battleship start_experience_factor = 0.247 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Channel Islands Dreadnought" definition = battleship start_experience_factor = 0.2485 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Brest Dreadnought" definition = battleship start_experience_factor = 0.249 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st La Roche Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Rouen Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st La Rocella Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Narbona Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Bordï¿½u Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Brest Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Channel Islands Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Frejus Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd La Rocella Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Bilbao Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Barcelona Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X25 version_name = "1936 Battleship" } } }
+			ship = { name = "Aquitania" definition = heavy_cruiser start_experience_factor = 0.04449 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Atlas" definition = heavy_cruiser start_experience_factor = 0.04699 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Celestial" definition = heavy_cruiser start_experience_factor = 0.04743 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Champion" definition = heavy_cruiser start_experience_factor = 0.04766 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Augustus" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Gallia" definition = heavy_cruiser start_experience_factor = 0.04761 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Occitania" definition = heavy_cruiser start_experience_factor = 0.04761 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Bearn" definition = light_cruiser start_experience_factor = 0.04882 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "AgarnaguÃ©s" definition = light_cruiser start_experience_factor = 0.04667 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Berric" definition = light_cruiser start_experience_factor = 0.04761 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Castanhau" definition = light_cruiser start_experience_factor = 0.04761 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X25 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "X25"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "X25"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

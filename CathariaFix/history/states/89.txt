@@ -1,0 +1,33 @@
+
+state={
+	id=89
+	name="STATE_89"
+	resources={
+		steel=14.000
+	}
+
+	history={
+		owner = X06
+		victory_points = {
+			4046 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			4046 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = X06
+	}
+
+	provinces={
+		1013 1160 4046 7081 7132 7166 9964 10078 11923 12051 
+	}
+	manpower=1174400
+	buildings_max_level_factor=1.000
+	state_category=city
+}

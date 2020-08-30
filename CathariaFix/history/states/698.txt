@@ -1,0 +1,36 @@
+
+state={
+	id=698
+	name="STATE_698"
+	resources={
+		aluminium=16.000
+		oil=1.000
+		steel=2.000
+	}
+
+	history={
+		owner = X42
+		victory_points = {
+			10904 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			10904 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = PER
+		add_core_of = X42
+	}
+
+	provinces={
+		10904 
+	}
+	manpower=312829
+	buildings_max_level_factor=1.000
+	state_category=town
+}

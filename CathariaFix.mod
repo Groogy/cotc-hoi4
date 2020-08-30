@@ -1,0 +1,6 @@
+name="Converted - CathariaFix"
+replace_path="common/ideologies"
+replace_path="history/countries"
+replace_path="history/states"
+supported_version="1.9.*"
+path="D:/Users/groog/Documents/Paradox Interactive/Hearts of Iron IV/mod/CathariaFix"

@@ -1,0 +1,29 @@
+
+state={
+	id=475
+	name="STATE_475"
+
+	history={
+		owner = ROM
+		victory_points = {
+			11670 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			11670 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		741 754 3575 3738 3757 6597 9698 9714 11670 11703 
+	}
+	manpower=196040
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

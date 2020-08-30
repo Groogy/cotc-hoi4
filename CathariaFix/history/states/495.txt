@@ -1,0 +1,30 @@
+
+state={
+	id=495
+	name="STATE_495"
+
+	history={
+		owner = U78
+		victory_points = {
+			10730 10 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+			arms_factory = 1
+			5066 = {
+				naval_base = 10
+			}
+			air_base = 7
+
+		}
+		add_core_of = U78
+	}
+
+	provinces={
+		5066 8032 10730 
+	}
+	manpower=1837845
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

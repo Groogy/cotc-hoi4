@@ -1,0 +1,33 @@
+
+state={
+	id=633
+	name="STATE_633"
+	resources={
+		chromium=13.000
+		oil=30.000
+	}
+
+	history={
+		owner = X37
+		victory_points = {
+			7624 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = PER
+		add_core_of = X11
+		add_core_of = X37
+	}
+
+	provinces={
+		666 670 683 700 712 728 1450 3668 3672 3682 3711 4463 6689 6701 6702 6730 6748 7554 7624 9628 9645 9647 11614 11632 
+	}
+	manpower=692950
+	buildings_max_level_factor=1.000
+	state_category=town
+}

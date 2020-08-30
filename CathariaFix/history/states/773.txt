@@ -1,0 +1,30 @@
+
+state={
+	id=773
+	name="STATE_773"
+	resources={
+		tungsten=4.000
+	}
+
+	history={
+		owner = X50
+		victory_points = {
+			4860 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X50
+	}
+
+	provinces={
+		1857 4860 4863 7883 10593 10624 11712 
+	}
+	manpower=75181
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

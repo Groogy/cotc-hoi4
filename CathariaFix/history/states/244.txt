@@ -1,0 +1,30 @@
+
+state={
+	id=244
+	name="STATE_244"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			5209 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		5209 
+	}
+	manpower=24669
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

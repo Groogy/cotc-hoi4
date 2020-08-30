@@ -1,0 +1,33 @@
+
+state={
+	id=586
+	name="STATE_586"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = X30
+		victory_points = {
+			3152 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = DEN
+		add_core_of = EST
+		add_core_of = X27
+		add_core_of = X30
+	}
+
+	provinces={
+		83 496 567 3074 3152 9079 11426 
+	}
+	manpower=29730
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

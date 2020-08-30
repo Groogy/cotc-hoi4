@@ -1,0 +1,77 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 4052
+		task_force = {
+			name = "2nd Fleet"
+			location = 4052
+			ship = { name = "3rd Pyongyang Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "1st Sariwon Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "1st Kangnung Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "1st Pusan Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "2nd Sariwon Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "1st Pyongyang Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "2nd Kangnung Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "3rd Sariwon Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "2nd Pyongyang Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "4th Sariwon Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X31 version_name = "Early Battleship" } } }
+			ship = { name = "1st Pusan Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Kangnung Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Pyongyang Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Pusan Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Sariwon Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "5th Pyongyang Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Pusan Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Pyongyang Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Pyongyang Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Sariwon Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Kangnung Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Pyongyang Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "5th Sariwon Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Sariwon Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Sariwon Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Pusan Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Pusan Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "8th Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "5th Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "6th Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Pusan Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "7th Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Sariwon Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Kangnung Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "6th Sariwon Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Sariwon Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+			ship = { name = "5th Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X31 version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "X31"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "X31"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

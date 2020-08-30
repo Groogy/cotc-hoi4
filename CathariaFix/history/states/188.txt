@@ -1,0 +1,31 @@
+
+state={
+	id=188
+	name="STATE_188"
+
+	history={
+		owner = EGY
+		victory_points = {
+			13005 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			13005 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		13005 
+	}
+	manpower=241637
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=543
+	name="STATE_543"
+
+	history={
+		owner = X25
+		victory_points = {
+			11506 6 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = FRA
+		add_core_of = X25
+		add_core_of = X28
+	}
+
+	provinces={
+		6547 6949 9507 9523 9534 9725 11491 11506 11518 
+	}
+	manpower=1114527
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

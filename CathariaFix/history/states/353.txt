@@ -1,0 +1,32 @@
+
+state={
+	id=353
+	name="STATE_353"
+	resources={
+		chromium=10.000
+		steel=23.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			7785 7 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 8
+			arms_factory = 0
+			air_base = 3
+
+		}
+		add_core_of = X10
+		add_core_of = X19
+	}
+
+	provinces={
+		1666 1730 1739 1748 1761 1795 1805 1807 1845 4675 4726 4731 4752 4762 4795 4821 4832 4847 4855 4868 4881 7691 7759 7772 7785 7844 7851 7889 10565 10574 10583 10590 10608 10667 10678 10681 10714 12543 12556 12565 12591 12650 12660 12694 
+	}
+	manpower=1510450
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

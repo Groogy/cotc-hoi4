@@ -1,0 +1,32 @@
+
+state={
+	id=583
+	name="STATE_583"
+	resources={
+		aluminium=8.000
+		steel=40.000
+	}
+
+	history={
+		owner = X29
+		victory_points = {
+			9149 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = SWE
+		add_core_of = X29
+	}
+
+	provinces={
+		35 161 3106 3182 6050 6084 6127 6164 6188 6209 6311 6397 9109 9149 9185 9209 9308 9393 11044 11082 11163 11188 11278 11289 11380 
+	}
+	manpower=784827
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

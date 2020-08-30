@@ -1,0 +1,81 @@
+focus_tree = {
+	id = X02_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = X02
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarBRMX02
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarBRM
+		bypass = {
+			has_war_with = BRM
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1937.2.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Burma" }
+			create_wargoal = {
+				type = annex_everything
+				target = BRM
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = BRM ratio < 0.8 }
+			}
+		}
+	}
+
+	focus = {
+		id = NeighborWarX17X02
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX17
+		bypass = {
+			has_war_with = X17
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1939.7.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Mong Pai" }
+			create_wargoal = {
+				type = annex_everything
+				target = X17
+			}
+		}
+		ai_will_do = {
+			factor = 5
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X17 ratio < 0.8 }
+			}
+		}
+	}
+
+}

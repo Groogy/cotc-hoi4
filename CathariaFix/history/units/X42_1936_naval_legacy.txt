@@ -1,0 +1,75 @@
+units = {
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 4241
+		task_force = {
+			name = "4th Fleet"
+			location = 4241
+			ship = { name = "4th Bela Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Rajkot Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "4th Dubai Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "3rd Bela Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "3rd Bandar Abbas Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Dubai Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Abadan Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "4th Bandar Abbas Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Bandar Abbas Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Cuttack Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "3rd Dubai Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Bandar Abbas Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Dubai Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Bela Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Bela Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "4th Dubai Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "3rd Abadan Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Bela Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Bandar Abbas Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Bandar Abbas Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Karachi Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "3rd Dubai Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Cuttack Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "5th Bandar Abbas Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Ponape Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Dubai Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Bela Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Cuttack Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Dubai Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "2nd Abadan Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+		}
+	}
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 4416
+		task_force = {
+			name = "3rd Fleet"
+			location = 4416
+			ship = { name = "2nd Cuttack Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "3rd Cuttack Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "5th Bandar Abbas Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "1st Abadan Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "3rd Bandar Abbas Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+			ship = { name = "4th Bandar Abbas Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X42 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X42"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "X42"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

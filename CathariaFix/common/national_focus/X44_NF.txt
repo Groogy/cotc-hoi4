@@ -1,0 +1,58 @@
+focus_tree = {
+	id = X44_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = X44
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarX29X44
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX29
+		bypass = {
+			has_war_with = X29
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1939.8.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Uppsala" }
+			create_wargoal = {
+				type = annex_everything
+				target = X29
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X29 ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = EST
+					has_war_with = SWE
+				}
+			}
+		}
+	}
+
+}

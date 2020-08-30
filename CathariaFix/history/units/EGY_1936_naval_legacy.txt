@@ -1,0 +1,378 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 12029
+		task_force = {
+			name = "2nd Fleet"
+			location = 12029
+			ship = { name = "5th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Marsa Alam Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Niepokonany" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Straszny" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Archaniol Michal" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Archaniol Rafal" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Marsa Alam Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+		}
+	}
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 1201
+		task_force = {
+			name = "5th Fleet"
+			location = 1201
+			ship = { name = "12th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Marsa Alam Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Halaib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Marsa Alam Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Halaib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Marsa Alam Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Halaib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Halaib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Bursa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Angoche Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Halaib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Ardahan Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Bursa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Angoche Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "15th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Halaib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Basra Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Ardahan Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Jidda Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "15th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "15th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Bahrain Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "16th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Hufuf Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Ajgyptos" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Duqm Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Basra Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Jidda Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "15th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Hufuf Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "13th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Duqm Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Bahrain Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Angoche Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "14th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "15th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Marsa Alam Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 7193
+		task_force = {
+			name = "4th Fleet"
+			location = 7193
+			ship = { name = "1st Edirne Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Krzyzowiec" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Lewiatan" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Niezwyciezony" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Edirne Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Xanthe Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Ptolemeusz" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Burgas Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Aleksander" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Edirne Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Archaniol Gabriel" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Xanthe Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Przemozny" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Bahrain Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Jidda Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Hufuf Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Basra Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Duqm Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Hufuf Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Bursa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Ardahan Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Bursa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Basra Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Hufuf Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Duqm Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Bahrain Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Jidda Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Duqm Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "12th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "10th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+		}
+	}
+	fleet = {
+		name = "11th Fleet"
+		naval_base = 11964
+		task_force = {
+			name = "11th Fleet"
+			location = 11964
+			ship = { name = "2nd Jidda Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Bahrain Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "11th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "9th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Marsa Alam Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Burgas Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Edirne Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Xanthe Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Bursa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Burgas Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Edirne Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Xanthe Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Bursa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Ardahan Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Ardahan Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Basra Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Antioch Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Jidda Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Beirut Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Ardahan Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Hufuf Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Duqm Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Acre Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Basra Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Jidda Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Bahrain Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Qatif Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Duqm Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Tunis Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Tripoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Dumyat Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Alexandria Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Sidi Barrani Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "7th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "3rd Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "8th Ras Gharib Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Sofala Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "4th Kilwa Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Assab Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "5th Lamu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "6th Kismayo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+		}
+	}
+	fleet = {
+		name = "9th Fleet"
+		naval_base = 10968
+		task_force = {
+			name = "9th Fleet"
+			location = 225
+			ship = { name = "15th Darna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "EGY"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "EGY"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

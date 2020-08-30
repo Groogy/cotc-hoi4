@@ -1,0 +1,95 @@
+focus_tree = {
+	id = PRU_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = PRU
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarCOLPRU
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarCOL
+		bypass = {
+			has_war_with = COL
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1937.1.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Colombia" }
+			create_wargoal = {
+				type = annex_everything
+				target = COL
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = COL ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = X53
+					has_war_with = X54
+				}
+			}
+		}
+	}
+
+	focus = {
+		id = NeighborWarX53PRU
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX53
+		bypass = {
+			has_war_with = X53
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1938.8.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Purgyalia" }
+			create_wargoal = {
+				type = annex_everything
+				target = X53
+			}
+		}
+		ai_will_do = {
+			factor = 5
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X53 ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = COL
+					has_war_with = X54
+				}
+			}
+		}
+	}
+
+}

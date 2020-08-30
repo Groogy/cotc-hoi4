@@ -1,0 +1,42 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 12147
+		task_force = {
+			name = "2nd Fleet"
+			location = 12147
+			ship = { name = "2nd Fort Warnow Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "1st Niklothaven Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "2nd Niklothaven Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "6th Niklothaven Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "1st Albis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "1st Fort Warnow Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "3rd Niklothaven Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "4th Niklothaven Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "7th Niklothaven Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "5th Niklothaven Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+			ship = { name = "2nd Albis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X50 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X50"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "X50"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

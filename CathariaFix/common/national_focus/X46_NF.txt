@@ -1,0 +1,51 @@
+focus_tree = {
+	id = X46_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = X46
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarHUNX46
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarHUN
+		bypass = {
+			has_war_with = HUN
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1937.1.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Hungary" }
+			create_wargoal = {
+				type = annex_everything
+				target = HUN
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = HUN ratio < 0.8 }
+			}
+		}
+	}
+
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=251
+	name="STATE_251"
+	resources={
+		steel=12.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			516 8 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 8
+			arms_factory = 3
+			air_base = 3
+
+		}
+		add_core_of = FLA
+		add_core_of = GER
+	}
+
+	provinces={
+		516 9574 
+	}
+	manpower=2721299
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=53
+	name="STATE_53"
+	resources={
+		aluminium=33.000
+		chromium=17.000
+		steel=14.000
+		tungsten=11.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			4109 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			4109 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+		add_core_of = BUL
+	}
+
+	provinces={
+		976 1109 1205 3864 3988 4109 11895 12001 
+	}
+	manpower=588408
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

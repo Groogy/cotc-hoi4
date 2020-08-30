@@ -1,0 +1,31 @@
+
+state={
+	id=3
+	name="STATE_3"
+
+	history={
+		owner = X01
+		victory_points = {
+			4646 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			4646 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = JAP
+		add_core_of = X01
+	}
+
+	provinces={
+		1512 1642 4576 4646 7595 12352 12421 
+	}
+	manpower=227663
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,71 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 3422
+		task_force = {
+			name = "2nd Fleet"
+			location = 3422
+			ship = { name = "1st Cardiff Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "2nd Belfast Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "2nd Aberdeen Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "3rd Belfast Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "3rd Aberdeen Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "2nd Cardiff Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "1st Belfast Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "1st Aberdeen Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "1st Edinburgh Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = X26 version_name = "Early Battleship" } } }
+			ship = { name = "1st Cardiff Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Belfast Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Salisbury Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Newcastle-upon-Tyne Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Belfast Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Aberdeen Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Edinburgh Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Belfast Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Edinburgh Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Aberdeen Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Edinburgh Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Belfast Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Chelmsford Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Belfast Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Aberdeen Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Belfast Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Cardiff Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Salisbury Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Canterbury Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Chelmsford Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Canterbury Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Lincoln Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Chelmsford Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Salisbury Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Canterbury Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Salisbury Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Calais Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Salisbury Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Lincoln Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X26 version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "X26"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "X26"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

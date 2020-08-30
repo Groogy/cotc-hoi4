@@ -1,0 +1,33 @@
+
+state={
+	id=42
+	name="STATE_42"
+	resources={
+		aluminium=2.000
+		oil=1.000
+		steel=2.000
+		tungsten=23.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			11001 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		2224 5229 10944 10965 11001 12979 
+	}
+	manpower=792970
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

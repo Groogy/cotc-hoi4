@@ -1,0 +1,32 @@
+
+state={
+	id=203
+	name="STATE_203"
+	resources={
+		chromium=7.000
+		steel=10.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			5203 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = EGY
+		add_core_of = X41
+	}
+
+	provinces={
+		1509 5203 10668 
+	}
+	manpower=115270
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

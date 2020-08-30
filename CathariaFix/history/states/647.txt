@@ -1,0 +1,36 @@
+
+state={
+	id=647
+	name="STATE_647"
+	resources={
+		aluminium=6.000
+		chromium=2.000
+		steel=1.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = X41
+		victory_points = {
+			7127 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			7127 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		7127 
+	}
+	manpower=108199
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

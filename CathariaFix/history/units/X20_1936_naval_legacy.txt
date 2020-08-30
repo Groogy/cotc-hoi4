@@ -1,0 +1,36 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 6192
+		task_force = {
+			name = "1st Fleet"
+			location = 6192
+			ship = { name = "1st Shoyna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X20 } } }
+			ship = { name = "2nd Shoyna Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X20 } } }
+			ship = { name = "2nd Shoyna Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X20 } } }
+			ship = { name = "3rd Shoyna Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X20 } } }
+			ship = { name = "4th Shoyna Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X20 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X20"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X20"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

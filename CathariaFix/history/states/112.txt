@@ -1,0 +1,33 @@
+
+state={
+	id=112
+	name="STATE_112"
+	resources={
+		aluminium=5.000
+	}
+
+	history={
+		owner = DEN
+		victory_points = {
+			6235 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			6364 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = DEN
+	}
+
+	provinces={
+		316 394 3206 6235 6364 
+	}
+	manpower=352228
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

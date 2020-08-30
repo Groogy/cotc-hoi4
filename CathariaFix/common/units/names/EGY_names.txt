@@ -1,0 +1,58 @@
+﻿EGY = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Antylopa" "Aleksandria" "Abydos" "Arsinoe" "Athribis" "Azariasz" "Atalia" "Amazjasz" "Achaz" "Amon" "Achab" "Bubastis" "Babilon" "Basza" "Cair" "Chimajra" "Dafne" "Dawid" "Ezechiasz" "Ela" "Gladiator" "Gorliwy" "Gorejacy" "Giza" "Hermopolis" "Heliopolis" "Joasz" "Jan Chryzostom" "Jozafat" "Joram" "Jotam" "Jozjasz" "Joachaz" "Jojakin" "Jeroboam" "Jehu" "Koptos" "Luksor" "Lykopolis" "Memfis" "Manasses" "Menachem" "Naukratus" "Nadab" "Ognisty" "Ochozjasz" "Omri" "Ozeasz" "Peluzjum" "Pekachiasz" "Pekach" "Rakotis" "Sais" "Swiety Szczepan" "Swiety Filip" "Swiety Antoni" "Swiety Makary Wielki" "Swiety Pachomiusz" "Swiety Arseniusz" "Swiety Dionizy" "Swiety Augustyn" "Swiety Grzegorz" "Swiety Cyryl" "Swiety Ambrozy" "Swiety Bartlomiej Apostol" "Swiety Tomasz Apostol" "Swiety Maciej Apostol" "Swiety Mateusz Ewangelista" "Swiety Andrzej Apostol" "Swiety Pawel Apostol" "Swiety Piotr Apostol" "Salomon" "Sedecjasz" "Szallum" "Tygrys" "Teby" "Tanis" "Zarliwy" "Zimri" "Zachariasz" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Ajgyptos" "Aleksander" "Archaniol Gabriel" "Archaniol Rafal" "Archaniol Michal" "Krzyzowiec" "Lewiatan" "Niezwyciezony" "Niepokonany" "Ptolemeusz" "Przemozny" "Straszny" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Antylopa" "Aleksandria" "Abydos" "Arsinoe" "Athribis" "Azariasz" "Atalia" "Amazjasz" "Achaz" "Amon" "Achab" "Bubastis" "Babilon" "Basza" "Cair" "Chimajra" "Dafne" "Dawid" "Ezechiasz" "Ela" "Gladiator" "Gorliwy" "Gorejacy" "Giza" "Hermopolis" "Heliopolis" "Joasz" "Jan Chryzostom" "Jozafat" "Joram" "Jotam" "Jozjasz" "Joachaz" "Jojakin" "Jeroboam" "Jehu" "Koptos" "Luksor" "Lykopolis" "Memfis" "Manasses" "Menachem" "Naukratus" "Nadab" "Ognisty" "Ochozjasz" "Omri" "Ozeasz" "Peluzjum" "Pekachiasz" "Pekach" "Rakotis" "Sais" "Swiety Szczepan" "Swiety Filip" "Swiety Antoni" "Swiety Makary Wielki" "Swiety Pachomiusz" "Swiety Arseniusz" "Swiety Dionizy" "Swiety Augustyn" "Swiety Grzegorz" "Swiety Cyryl" "Swiety Ambrozy" "Swiety Bartlomiej Apostol" "Swiety Tomasz Apostol" "Swiety Maciej Apostol" "Swiety Mateusz Ewangelista" "Swiety Andrzej Apostol" "Swiety Pawel Apostol" "Swiety Piotr Apostol" "Salomon" "Sedecjasz" "Szallum" "Tygrys" "Teby" "Tanis" "Zarliwy" "Zimri" "Zachariasz" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Antylopa" "Aleksandria" "Abydos" "Arsinoe" "Athribis" "Azariasz" "Atalia" "Amazjasz" "Achaz" "Amon" "Achab" "Bubastis" "Babilon" "Basza" "Cair" "Chimajra" "Dafne" "Dawid" "Ezechiasz" "Ela" "Gladiator" "Gorliwy" "Gorejacy" "Giza" "Hermopolis" "Heliopolis" "Joasz" "Jan Chryzostom" "Jozafat" "Joram" "Jotam" "Jozjasz" "Joachaz" "Jojakin" "Jeroboam" "Jehu" "Koptos" "Luksor" "Lykopolis" "Memfis" "Manasses" "Menachem" "Naukratus" "Nadab" "Ognisty" "Ochozjasz" "Omri" "Ozeasz" "Peluzjum" "Pekachiasz" "Pekach" "Rakotis" "Sais" "Swiety Szczepan" "Swiety Filip" "Swiety Antoni" "Swiety Makary Wielki" "Swiety Pachomiusz" "Swiety Arseniusz" "Swiety Dionizy" "Swiety Augustyn" "Swiety Grzegorz" "Swiety Cyryl" "Swiety Ambrozy" "Swiety Bartlomiej Apostol" "Swiety Tomasz Apostol" "Swiety Maciej Apostol" "Swiety Mateusz Ewangelista" "Swiety Andrzej Apostol" "Swiety Pawel Apostol" "Swiety Piotr Apostol" "Salomon" "Sedecjasz" "Szallum" "Tygrys" "Teby" "Tanis" "Zarliwy" "Zimri" "Zachariasz" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Ajgyptos" "Aleksander" "Archaniol Gabriel" "Archaniol Rafal" "Archaniol Michal" "Krzyzowiec" "Lewiatan" "Niezwyciezony" "Niepokonany" "Ptolemeusz" "Przemozny" "Straszny" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Antylopa" "Aleksandria" "Abydos" "Arsinoe" "Athribis" "Azariasz" "Atalia" "Amazjasz" "Achaz" "Amon" "Achab" "Bubastis" "Babilon" "Basza" "Cair" "Chimajra" "Dafne" "Dawid" "Ezechiasz" "Ela" "Gladiator" "Gorliwy" "Gorejacy" "Giza" "Hermopolis" "Heliopolis" "Joasz" "Jan Chryzostom" "Jozafat" "Joram" "Jotam" "Jozjasz" "Joachaz" "Jojakin" "Jeroboam" "Jehu" "Koptos" "Luksor" "Lykopolis" "Memfis" "Manasses" "Menachem" "Naukratus" "Nadab" "Ognisty" "Ochozjasz" "Omri" "Ozeasz" "Peluzjum" "Pekachiasz" "Pekach" "Rakotis" "Sais" "Swiety Szczepan" "Swiety Filip" "Swiety Antoni" "Swiety Makary Wielki" "Swiety Pachomiusz" "Swiety Arseniusz" "Swiety Dionizy" "Swiety Augustyn" "Swiety Grzegorz" "Swiety Cyryl" "Swiety Ambrozy" "Swiety Bartlomiej Apostol" "Swiety Tomasz Apostol" "Swiety Maciej Apostol" "Swiety Mateusz Ewangelista" "Swiety Andrzej Apostol" "Swiety Pawel Apostol" "Swiety Piotr Apostol" "Salomon" "Sedecjasz" "Szallum" "Tygrys" "Teby" "Tanis" "Zarliwy" "Zimri" "Zachariasz" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Antylopa" "Aleksandria" "Abydos" "Arsinoe" "Athribis" "Azariasz" "Atalia" "Amazjasz" "Achaz" "Amon" "Achab" "Bubastis" "Babilon" "Basza" "Cair" "Chimajra" "Dafne" "Dawid" "Ezechiasz" "Ela" "Gladiator" "Gorliwy" "Gorejacy" "Giza" "Hermopolis" "Heliopolis" "Joasz" "Jan Chryzostom" "Jozafat" "Joram" "Jotam" "Jozjasz" "Joachaz" "Jojakin" "Jeroboam" "Jehu" "Koptos" "Luksor" "Lykopolis" "Memfis" "Manasses" "Menachem" "Naukratus" "Nadab" "Ognisty" "Ochozjasz" "Omri" "Ozeasz" "Peluzjum" "Pekachiasz" "Pekach" "Rakotis" "Sais" "Swiety Szczepan" "Swiety Filip" "Swiety Antoni" "Swiety Makary Wielki" "Swiety Pachomiusz" "Swiety Arseniusz" "Swiety Dionizy" "Swiety Augustyn" "Swiety Grzegorz" "Swiety Cyryl" "Swiety Ambrozy" "Swiety Bartlomiej Apostol" "Swiety Tomasz Apostol" "Swiety Maciej Apostol" "Swiety Mateusz Ewangelista" "Swiety Andrzej Apostol" "Swiety Pawel Apostol" "Swiety Piotr Apostol" "Salomon" "Sedecjasz" "Szallum" "Tygrys" "Teby" "Tanis" "Zarliwy" "Zimri" "Zachariasz" 
+		}
+	}
+
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=359
+	name="STATE_359"
+	resources={
+		chromium=4.000
+	}
+
+	history={
+		owner = HAI
+		victory_points = {
+			7660 9 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			dockyard = 1
+			4641 = {
+				naval_base = 10
+			}
+			air_base = 5
+
+		}
+		add_core_of = CAN
+		add_core_of = HAI
+	}
+
+	provinces={
+		1594 1635 4598 4641 7632 7660 10484 
+	}
+	manpower=1569271
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

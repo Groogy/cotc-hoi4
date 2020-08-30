@@ -1,0 +1,176 @@
+﻿X25_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Ambiorix" "Ariovistus" "Alesia" "Arvernia" "Aegidius" "Alaricus" "Blanchejar" "Blanquet" "Bresilianda" "Commius" "Cassivellaunus" "Colossus" "Cisalpina" "Comtat Pol" "Flavius Syagrius" "Gothia" "Guerrejador" "Indutiomarus" "Magetobriga" "Maxima Sequanorum" "Orgetorix" "Septimania" "TÃ©merres" "Tetricus" "Vercingetorix" 
+	}
+}
+
+X25_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Angelus" "Artemis" "Astraea" "Beluga" "Berart" "Blezo" "Bon Comtat" "CairÃ¨l" "Carnalatge" "Carestia" "CaudiÃ¨ira" "Cavalgada" "Certana" "Cavalairia" "Celar" "Chino" "Clarenz" "Compenha" "Combatre" "ComenÃ§ador" "Complidor" "Conhac" "Coras" "Croissa" "ChaÃ§ador" "DeliuriÃ¨r" "Deljat" "Desconoissent" "Dessenat" "DestriÃ¨r" "Entendedor" "Entendent" "Envasiment" "Entresenha" "Eschalon" "Escarit" "Esclerata" "Escondit" "Ermerilho" "Falco" "Faidir" "Forcenat" "Frairalha" "Grant Denhar" "Galataea" "Glasi" "Guions" "Guis" "Guischarda" "Hephaestus" "Iosephus" "Isaacius" "Iseut" "Jangolhar" "Pegasus" "Phoebe" 
+	}
+}
+
+X25_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Angeus" "Angellina" "Alexandria" "Auster" "Aquilo" "Camelopardus" "CleopatrÃ s" "Drechura" "Dieu-Vos-Salv" "Escharida" "Estragat" "Eurus" "Fidip" "Favonius" "Lugdunum" "Lisetta" "Ludna" "Mondetta" "Marc Antoni" "Oceanus" "Palamedes" "Ptolemeus" "Septentrio" "Tit Labienus" 
+	}
+}
+
+X25_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Aubrey Fanshawe" "AlcÃ¨u de Laureda" "Bruno d'Ossagor" "Bernardus de Mynho" "EugÃ¨ni Brun" "Filipot de Segret" "Filip Flehutin" "FrancÃ©s Vigoros" "Folc Maurel" "Galhardus Besten" "Guirat de Mersier" "Joan de Tilh" "Jacme Dornat" "JosÃ¨p Sepet" "Nicholas Frobisher" "PÃ¨ire Elbira" "Pau Blount" "Rorgues CathÃ¨rine" "Sibylle de Valois" "ThomÃ© Aribert" "Udalard Sunyer" "VicenÃ§ Ayceli" "XaviÃ¨r Amont" "XaviÃ¨r de Papasol" "Asteria" "Puella" "Barral de Fulhonibus" "Sidoni Apollinar" "Dompnejar" "CembelÃ­s" "Bernardon" "Folheta" "Charetier" "Lobaton" 
+	}
+}
+
+X25_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Aubrey Fanshawe" "AlcÃ¨u de Laureda" "Bruno d'Ossagor" "Bernardus de Mynho" "EugÃ¨ni Brun" "Filipot de Segret" "Filip Flehutin" "FrancÃ©s Vigoros" "Folc Maurel" "Galhardus Besten" "Guirat de Mersier" "Joan de Tilh" "Jacme Dornat" "JosÃ¨p Sepet" "Nicholas Frobisher" "PÃ¨ire Elbira" "Pau Blount" "Rorgues CathÃ¨rine" "Sibylle de Valois" "ThomÃ© Aribert" "Udalard Sunyer" "VicenÃ§ Ayceli" "XaviÃ¨r Amont" "XaviÃ¨r de Papasol" "Asteria" "Puella" "Barral de Fulhonibus" "Sidoni Apollinar" "Dompnejar" "CembelÃ­s" "Bernardon" "Folheta" "Charetier" "Lobaton" 
+	}
+}
+
+X25_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Gal" "Ausonia" "Arius" "Nemesis" "Senatus" "Auzelhon" "Ferris" "Ulfilas" "Devedar" "Argentia" "Defensalha" "Franc" "Desplaser" "Porcelana" "VictÃ²ria" 
+	}
+}
+
+X25_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Gal" "Ausonia" "Arius" "Nemesis" "Senatus" "Auzelhon" "Ferris" "Ulfilas" "Devedar" "Argentia" "Defensalha" "Franc" "Desplaser" "Porcelana" "VictÃ²ria" 
+	}
+}
+
+X25_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Auvernhe" "AgarnaguÃ©s" "Bearn" "BordalÃ©s" "Berric" "BrulhÃ©s" "Brinholenc" "BigÃ²rra" "Carcin" "Cantal" "CabardÃ©s" "CarladÃ©" "Castanhau" "CastrÃ©" "Cevenas" "Combralha" "Comenge" "Crau" "DiÃ©s" "Donasan" "EngolmÃ©s" "EsterÃ¨u" "Fois" "FenolhedÃ©s" "FrontonÃ©s" "Guiana" "GapencÃ©s" "Gavardan" "GimoÃ©s" "Lavedan" "LibornÃ©" "Lomanha" "Montpelhierenc" "MedÃ²c" "Marjarida" "Maremne" "MauriaguÃ©s" "Novempopulania" "NarbonÃ©s" "Nebosan" "Oesen" "PÃ©rigord" "Peitau" "Planesa" "QuercÃ²rb" "RasÃ©s" "RebairaguÃ©s" "Santafrican" "SavÃ©s" "Segalar" "Sisteronenc" "Tolosan" "Tolonenc" "Tursan" "TÃ¨rrafort" "Ubaia" "VivarÃ©s" "Vendea" "Varossa" "VasadÃ©s" "Vencenc" "ViadÃ¨na" "VolvÃ¨stre" 
+	}
+}
+
+X25_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Auvernhe" "AgarnaguÃ©s" "Bearn" "BordalÃ©s" "Berric" "BrulhÃ©s" "Brinholenc" "BigÃ²rra" "Carcin" "Cantal" "CabardÃ©s" "CarladÃ©" "Castanhau" "CastrÃ©" "Cevenas" "Combralha" "Comenge" "Crau" "DiÃ©s" "Donasan" "EngolmÃ©s" "EsterÃ¨u" "Fois" "FenolhedÃ©s" "FrontonÃ©s" "Guiana" "GapencÃ©s" "Gavardan" "GimoÃ©s" "Lavedan" "LibornÃ©" "Lomanha" "Montpelhierenc" "MedÃ²c" "Marjarida" "Maremne" "MauriaguÃ©s" "Novempopulania" "NarbonÃ©s" "Nebosan" "Oesen" "PÃ©rigord" "Peitau" "Planesa" "QuercÃ²rb" "RasÃ©s" "RebairaguÃ©s" "Santafrican" "SavÃ©s" "Segalar" "Sisteronenc" "Tolosan" "Tolonenc" "Tursan" "TÃ¨rrafort" "Ubaia" "VivarÃ©s" "Vendea" "Varossa" "VasadÃ©s" "Vencenc" "ViadÃ¨na" "VolvÃ¨stre" 
+	}
+}
+
+X25_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Aubrey Fanshawe" "AlcÃ¨u de Laureda" "Bruno d'Ossagor" "Bernardus de Mynho" "EugÃ¨ni Brun" "Filipot de Segret" "Filip Flehutin" "FrancÃ©s Vigoros" "Folc Maurel" "Galhardus Besten" "Guirat de Mersier" "Joan de Tilh" "Jacme Dornat" "JosÃ¨p Sepet" "Nicholas Frobisher" "PÃ¨ire Elbira" "Pau Blount" "Rorgues CathÃ¨rine" "Sibylle de Valois" "ThomÃ© Aribert" "Udalard Sunyer" "VicenÃ§ Ayceli" "XaviÃ¨r Amont" "XaviÃ¨r de Papasol" "Asteria" "Puella" "Barral de Fulhonibus" "Sidoni Apollinar" "Dompnejar" "CembelÃ­s" "Bernardon" "Folheta" "Charetier" "Lobaton" 
+	}
+}
+
+X25_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { X25 }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Abat" "Aberrant" "Absolutista" "Augustodunum" "Acs" "Aigar" "Altasvaus" "AnhÃ¨s" "AnfÃ³s" "Aost" "Arat" "Argento" "ArtÃºs" "Asimant" "Arramon" "Apeliotes" "Argestes" "Aparctias" "Aura" "Azanias" "Bon Ademar" "Bacalar" "BaudoÃ¯n" "BerbiÃ§" "Blandida" "Barbara" "Bon Conselh" "Capacitat" "Copiosament" "Chanzi" "Congrenz" "ContenÃ§a" "Cranc" "CrÃ²i" "Cybele" "Desmentir" "Dimartz" "Dire d'Ã’c" "Dompnejant" "Dindymon" "Eissarrat" "EnanÃ§ament" "Endura" "Esquiu" "Esquina" "EsquerriÃ¨r" "Ensenhar" "Esterlin" "Estorn" "Estrenar" "Euroauster" "Eleutheria" "FaÃ¼ra" "FebriÃ¨r" "Felip" "Fenhedor" "Galene" "Germanus" "Georgius" "Gregorius" "Gerontius" "Gladius" "Helena" "Hyacinthus" "Iapyx" "Libonotus" "Marcabru" "Meduana" "Meses" "Olympias" "Octavius" "Peregrinus" "Phoenicias" "Periboia" "Pallene" "Pallas" "Rheia" "Sant Astier" "Sent Andrieu" "Sant Joan" "Sant Pau" "Sant PÃ¨ire" "Sant Marc" "Sant Luc" "Santa Crotz" "Santa Romana" "Senta Maria" "Sant Gabriel" "Sant Miquel" "Sciron" "Salomon" "Symmachus" "Simplicius" "Sant Genars" "Thrascias" "Vulturnus" 
+	}
+}
+

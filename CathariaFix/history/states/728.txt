@@ -1,0 +1,37 @@
+
+state={
+	id=728
+	name="STATE_728"
+	resources={
+		oil=34.000
+		steel=8.000
+	}
+
+	history={
+		owner = X42
+		victory_points = {
+			12832 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			5005 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = KUR
+		add_core_of = PER
+		add_core_of = X11
+		add_core_of = X42
+	}
+
+	provinces={
+		5005 5089 7953 10797 12832 
+	}
+	manpower=1647317
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

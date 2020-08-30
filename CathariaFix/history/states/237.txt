@@ -1,0 +1,31 @@
+
+state={
+	id=237
+	name="STATE_237"
+	resources={
+		chromium=3.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			10351 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 3
+			air_base = 0
+
+		}
+		add_core_of = EGY
+		add_core_of = X20
+	}
+
+	provinces={
+		1521 10351 
+	}
+	manpower=772627
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=695
+	name="STATE_695"
+
+	history={
+		owner = X42
+		victory_points = {
+			12140 2 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		3995 12140 13023 13024 
+	}
+	manpower=240436
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,38 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 5066
+		task_force = {
+			name = "1st Fleet"
+			location = 5066
+			ship = { name = "Centroamérica" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = U78 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Los Albaï¿½iles Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = U78 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Bartolomé de las Casas" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = U78 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Castilla del Oro" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = U78 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Chorti" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = U78 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "U78"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "U78"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

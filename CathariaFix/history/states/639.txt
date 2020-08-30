@@ -1,0 +1,30 @@
+
+state={
+	id=639
+	name="STATE_639"
+	resources={
+		steel=26.000
+	}
+
+	history={
+		owner = X38
+		victory_points = {
+			9131 8 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = X38
+	}
+
+	provinces={
+		72 75 89 138 166 2996 3031 3124 3157 3160 3175 6017 6034 6075 6097 6109 9102 9130 9131 9168 9187 9199 11036 11071 11103 11107 11178 11189 11213 
+	}
+	manpower=29326
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=768
+	name="STATE_768"
+	resources={
+		oil=0.000
+		steel=0.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = X50
+		victory_points = {
+			12603 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = X50
+	}
+
+	provinces={
+		736 1788 3481 3769 4739 10552 10611 10656 12593 12603 12663 12682 
+	}
+	manpower=440655
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

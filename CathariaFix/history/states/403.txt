@@ -1,0 +1,27 @@
+
+state={
+	id=403
+	name="STATE_403"
+
+	history={
+		owner = X11
+		victory_points = {
+			12432 12 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = X11
+	}
+
+	provinces={
+		1027 7158 10480 12403 12432 
+	}
+	manpower=323716
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

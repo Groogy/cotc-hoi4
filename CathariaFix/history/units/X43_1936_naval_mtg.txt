@@ -1,0 +1,69 @@
+units = {
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 4245
+		task_force = {
+			name = "5th Fleet"
+			location = 4245
+			ship = { name = "2nd Calcutta Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Sittwe Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Calcutta Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Sittwe Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "4th Calcutta Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Sittwe Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "4th Sittwe Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "5th Calcutta Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Calcutta Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X43 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Sittwe Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Calcutta Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Sittwe Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Calcutta Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Sittwe Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Sittwe Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Calcutta Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Sittwe Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Calcutta Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "7th Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "9th Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "9th Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Calcutta Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Sittwe Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X43 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "X43"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "X43"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=432
+	name="STATE_432"
+
+	history={
+		owner = X14
+		victory_points = {
+			7315 15 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			7315 = {
+				naval_base = 8
+			}
+			air_base = 8
+
+		}
+		add_core_of = USA
+		add_core_of = X14
+	}
+
+	provinces={
+		1320 1690 4296 4398 4747 7255 7315 7386 7414 7442 10155 10157 10198 10242 10271 10327 10687 10690 10693 12155 12214 12673 
+	}
+	manpower=2144190
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=637
+	name="STATE_637"
+
+	history={
+		owner = X37
+		victory_points = {
+			9453 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X11
+		add_core_of = X38
+	}
+
+	provinces={
+		432 464 468 470 477 545 554 615 642 3459 3515 3538 3618 3622 6491 6498 6514 6523 6525 6564 6588 6615 7322 9453 9469 9513 9538 11442 11455 11457 11469 11472 11482 11524 11552 11578 11591 
+	}
+	manpower=44817
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

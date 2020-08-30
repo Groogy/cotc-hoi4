@@ -1,0 +1,29 @@
+
+state={
+	id=739
+	name="STATE_739"
+
+	history={
+		owner = X43
+		victory_points = {
+			7542 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			7542 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		4468 4524 7487 7512 7542 7585 12315 12386 
+	}
+	manpower=208118
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

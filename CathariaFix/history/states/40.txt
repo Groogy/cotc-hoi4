@@ -1,0 +1,32 @@
+
+state={
+	id=40
+	name="STATE_40"
+	resources={
+		oil=1.000
+		steel=1.000
+		tungsten=8.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			2174 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		2174 
+	}
+	manpower=258651
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

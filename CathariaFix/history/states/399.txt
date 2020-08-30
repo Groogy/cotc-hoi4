@@ -1,0 +1,31 @@
+
+state={
+	id=399
+	name="STATE_399"
+	resources={
+		aluminium=9.000
+		steel=21.000
+	}
+
+	history={
+		owner = X11
+		victory_points = {
+			4797 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = X11
+	}
+
+	provinces={
+		1727 1810 1829 4797 4815 7838 10543 10549 10596 10661 12525 12540 12647 
+	}
+	manpower=371632
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

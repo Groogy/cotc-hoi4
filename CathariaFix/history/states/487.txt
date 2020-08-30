@@ -1,0 +1,31 @@
+
+state={
+	id=487
+	name="STATE_487"
+
+	history={
+		owner = X21
+		victory_points = {
+			9140 8 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			9140 = {
+				naval_base = 2
+			}
+			air_base = 5
+
+		}
+		add_core_of = NOR
+		add_core_of = X21
+	}
+
+	provinces={
+		6012 6183 9140 11142 
+	}
+	manpower=40679
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

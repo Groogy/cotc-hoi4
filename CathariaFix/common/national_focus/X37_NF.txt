@@ -1,0 +1,101 @@
+focus_tree = {
+	id = X37_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = X37
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = NeighborWarX35X37
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX35
+		bypass = {
+			has_war_with = X35
+		}
+		x = 26
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1940.10.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Joensuu" }
+			create_wargoal = {
+				type = annex_everything
+				target = X35
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X35 ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = EST
+					has_war_with = X22
+					has_war_with = X36
+					has_war_with = X38
+					has_war_with = X44
+				}
+			}
+		}
+	}
+
+	focus = {
+		id = NeighborWarX36X37
+		icon = GFX_goal_generic_major_war
+		text = NeighborWarX36
+		bypass = {
+			has_war_with = X36
+		}
+		x = 28
+		y = 0
+		cost = 10
+		available = {
+			has_war = no
+			date > 1939.8.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "War with Kolva" }
+			create_wargoal = {
+				type = annex_everything
+				target = X36
+			}
+		}
+		ai_will_do = {
+			factor = 5
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X36 ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = EST
+					has_war_with = X22
+					has_war_with = X35
+					has_war_with = X38
+					has_war_with = X44
+				}
+			}
+		}
+	}
+
+}

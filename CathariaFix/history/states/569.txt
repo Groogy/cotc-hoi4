@@ -1,0 +1,31 @@
+
+state={
+	id=569
+	name="STATE_569"
+
+	history={
+		owner = X26
+		victory_points = {
+			3379 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			3379 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = IRE
+		add_core_of = X26
+	}
+
+	provinces={
+		276 385 3242 3329 3379 11257 
+	}
+	manpower=221084
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

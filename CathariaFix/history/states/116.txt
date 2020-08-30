@@ -1,0 +1,30 @@
+
+state={
+	id=116
+	name="STATE_116"
+
+	history={
+		owner = EGY
+		victory_points = {
+			6361 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			6361 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = DEN
+	}
+
+	provinces={
+		6361 
+	}
+	manpower=233428
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

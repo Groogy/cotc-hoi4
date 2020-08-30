@@ -1,0 +1,58 @@
+﻿X09 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Archimedes" "Forthright" "Genista" "Hadal" "Hero of Alexandria" "Hengist" "Horsa" "Jupiter" "Mount Badon" "Novelty" "Neptune" "Rocket" "Saturn" "Sans Pareil" "Tortoise" "Thunderer" "Vulcan" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Ark Royal" "Argos" "Aeneas" "Briton" "Brutus" "Conqueror" "Excaliber" "Englander" "Geoffrey of Anjou" "Leviathan" "Lionheart" "Longshanks" "Locrinus" "Lodoner" "Norman" "Phoenix" "Victory" "Warrior" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Archimedes" "Forthright" "Genista" "Hadal" "Hero of Alexandria" "Hengist" "Horsa" "Jupiter" "Novelty" "Neptune" "Rocket" "Saturn" "Sans Pareil" "Tortoise" "Thunderer" "Vulcan" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Antelope" "Ardent" "Baskerville" "Bellicose" "Belligerent" "Courageous" "Chivalrous" "Crusader" "David" "Defender" "Diligent" "Dutiful" "Fair Maid" "Gorlois" "Gazelle" "Gauntlet" "Housecarl" "Incessant" "Leopard" "Lion" "Loyalist" "Mansfield" "Protector" "Patience" "Pursuer" "Romulus" "Regal" "Resiliant" "Rightful" "Steadfast" "Sheriff of Hamilton" "Trident" "Treadwell" "Tiger" "Unstoppable" "Unceasing" "Vigilant" "Viscount" "Virtuous" "Worcester" "Wanderer" "Yonah" "Yelverton" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Albion" "Ajax" "Aquitaine" "Hastings" "Jason" "Jerusalem" "Lancaster" "Lincoln" "Normandy" "Paris" "Saint George" "Saint John" "Saint Andrew" "Saint Louis" "Three Lions" "Two Crowns" "York" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Antelope" "Ardent" "Baskerville" "Bellicose" "Belligerent" "Courageous" "Chivalrous" "Crusader" "David" "Defender" "Diligent" "Dutiful" "Fair Maid" "Gorlois" "Gazelle" "Gauntlet" "Housecarl" "Incessant" "Leopard" "Lion" "Loyalist" "Mansfield" "Protector" "Patience" "Pursuer" "Romulus" "Regal" "Resiliant" "Rightful" "Steadfast" "Sheriff of Hamilton" "Trident" "Treadwell" "Tiger" "Unstoppable" "Unceasing" "Vigilant" "Viscount" "Virtuous" "Worcester" "Wanderer" "Yonah" "Yelverton" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Antelope" "Ardent" "Baskerville" "Bellicose" "Belligerent" "Courageous" "Chivalrous" "Crusader" "David" "Defender" "Diligent" "Dutiful" "Fair Maid" "Gorlois" "Gazelle" "Gauntlet" "Housecarl" "Incessant" "Leopard" "Lion" "Loyalist" "Mansfield" "Protector" "Patience" "Pursuer" "Romulus" "Regal" "Resiliant" "Rightful" "Steadfast" "Sheriff of Hamilton" "Trident" "Treadwell" "Tiger" "Unstoppable" "Unceasing" "Vigilant" "Viscount" "Virtuous" "Worcester" "Wanderer" "Yonah" "Yelverton" 
+		}
+	}
+
+}

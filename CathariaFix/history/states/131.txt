@@ -1,0 +1,30 @@
+
+state={
+	id=131
+	name="STATE_131"
+	resources={
+		steel=16.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			4550 9 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 4
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		1074 4111 4486 4550 7184 7513 10383 12316 12442 
+	}
+	manpower=2427088
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

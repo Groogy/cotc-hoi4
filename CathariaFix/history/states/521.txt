@@ -1,0 +1,33 @@
+
+state={
+	id=521
+	name="STATE_521"
+
+	history={
+		owner = USA
+		victory_points = {
+			3513 6 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 4
+			arms_factory = 2
+			dockyard = 1
+			12281 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = CAL
+		add_core_of = USA
+		add_core_of = X14
+	}
+
+	provinces={
+		505 528 1414 3471 3513 4274 4328 4347 4380 4826 7398 7721 7865 10151 10183 10305 10625 11495 11733 12183 12211 12281 12553 
+	}
+	manpower=2904678
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,45 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 4641
+		task_force = {
+			name = "2nd Fleet"
+			location = 4641
+			ship = { name = "Napoleon" definition = battleship equipment = { battleship_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Toussaint Louverture" definition = battleship equipment = { battleship_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Port au Prince" definition = battleship equipment = { battleship_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Jérémie" definition = battleship equipment = { battleship_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Toussaint Louverture" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Jérémie" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Port au Prince" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Haiti" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Napoleon" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Port Sali" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Haiti" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Napoleon" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Toussaint Louverture" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+			ship = { name = "Haiti" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = HAI } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "HAI"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "HAI"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

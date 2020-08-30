@@ -1,0 +1,33 @@
+
+state={
+	id=241
+	name="STATE_241"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = EST
+		victory_points = {
+			4640 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = DEN
+		add_core_of = EST
+		add_core_of = X27
+		add_core_of = X30
+	}
+
+	provinces={
+		308 592 3174 4640 6099 6178 6381 6408 9221 9485 11057 11127 11291 11443 
+	}
+	manpower=87123
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

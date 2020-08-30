@@ -1,0 +1,33 @@
+
+state={
+	id=38
+	name="STATE_38"
+	resources={
+		aluminium=4.000
+		steel=4.000
+		tungsten=22.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			2208 5 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			arms_factory = 0
+			air_base = 2
+
+		}
+		add_core_of = BRA
+		add_core_of = X13
+	}
+
+	provinces={
+		2106 2208 5143 8255 10986 
+	}
+	manpower=1744166
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

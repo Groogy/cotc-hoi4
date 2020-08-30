@@ -1,0 +1,30 @@
+
+state={
+	id=686
+	name="STATE_686"
+
+	history={
+		owner = X41
+		victory_points = {
+			4720 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			4720 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = CAN
+	}
+
+	provinces={
+		4720 4787 12503 
+	}
+	manpower=63401
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

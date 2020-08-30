@@ -1,0 +1,36 @@
+
+state={
+	id=638
+	name="STATE_638"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = X37
+		victory_points = {
+			10493 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			6222 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = DEN
+		add_core_of = EST
+		add_core_of = X27
+		add_core_of = X30
+	}
+
+	provinces={
+		222 233 265 310 319 341 3194 3255 3296 3298 3319 3388 3525 6222 6322 6342 6459 7482 9240 9262 9275 9317 9501 10323 10493 11222 11246 11302 11358 
+	}
+	manpower=492765
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

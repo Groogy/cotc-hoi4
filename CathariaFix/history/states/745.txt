@@ -1,0 +1,33 @@
+
+state={
+	id=745
+	name="STATE_745"
+	resources={
+		chromium=59.000
+	}
+
+	history={
+		owner = X43
+		victory_points = {
+			1269 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 1
+			1269 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = X43
+	}
+
+	provinces={
+		1042 1085 1237 1269 1370 4247 4252 4292 7390 7437 10291 10319 12120 12265 
+	}
+	manpower=332634
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

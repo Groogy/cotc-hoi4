@@ -1,0 +1,35 @@
+
+state={
+	id=662
+	name="STATE_662"
+	resources={
+		aluminium=0.000
+		rubber=1.000
+		steel=0.000
+	}
+
+	history={
+		owner = X41
+		victory_points = {
+			2050 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			2050 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		2050 12731 
+	}
+	manpower=428987
+	buildings_max_level_factor=1.000
+	state_category=town
+}

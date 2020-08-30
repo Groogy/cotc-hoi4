@@ -1,0 +1,86 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 7427
+		task_force = {
+			name = "3rd Fleet"
+			location = 7427
+			ship = { name = "Ratsadatiratkumar" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Boromtrailokanat" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Ramathibodi" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Ramesuan" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Boromaratchathirat" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Boromaratcha" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Petratcha" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Sanpet" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Narai" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Atitthayawong" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Boromma Ratcha" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Naresuan" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Chakrapat" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Chakrapat" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Mahintharathirat" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Worawong" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Boromtrailokanat" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Thong Lun" definition = battleship equipment = { battleship_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "4th Mergui Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "1st Bassein Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "1st Mergui Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "2nd Bassein Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "5th Mergui Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Yala" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Narathiwat" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Trang" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Phuket" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Chumphon" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Surat Thani" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Nakhon Srithammarat" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Krabi" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Ranong" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Prachuap Khirikhan" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Phangnga" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Phattalung" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Satun" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Songkla" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "Pattani" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "1st Malacca Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "4th Malacca Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "2nd Malacca Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 12230
+		task_force = {
+			name = "1st Fleet"
+			location = 12230
+			ship = { name = "3rd Mergui Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "2nd Mergui Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "1st Phuket Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "1st Phuket Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "1st Kampot Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { name = "3rd Malacca Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "SIA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "SIA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

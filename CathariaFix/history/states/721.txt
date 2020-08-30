@@ -1,0 +1,29 @@
+
+state={
+	id=721
+	name="STATE_721"
+
+	history={
+		owner = X42
+		victory_points = {
+			10505 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			10505 = {
+				naval_base = 6
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1602 1617 1629 4593 7627 10505 12457 
+	}
+	manpower=210859
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

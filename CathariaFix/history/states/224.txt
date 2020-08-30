@@ -1,0 +1,22 @@
+
+state={
+	id=224
+	name="STATE_224"
+	resources={
+		steel=0.000
+	}
+	impassable = yes
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		add_core_of = X41
+	}
+
+	provinces={
+		4962 5004 10884 12022 12082 
+	}
+	manpower=299007
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

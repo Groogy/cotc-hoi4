@@ -1,0 +1,36 @@
+
+state={
+	id=765
+	name="STATE_765"
+	resources={
+		aluminium=0.000
+		steel=7.000
+	}
+
+	history={
+		owner = X48
+		victory_points = {
+			12459 9 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			3732 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = X18
+		add_core_of = X48
+	}
+
+	provinces={
+		1282 1338 1619 3732 4287 6719 7462 10247 10318 12202 12221 12459 
+	}
+	manpower=8320505
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

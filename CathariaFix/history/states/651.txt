@@ -1,0 +1,33 @@
+
+state={
+	id=651
+	name="STATE_651"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = X41
+		victory_points = {
+			4948 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			4948 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		4948 8015 12710 
+	}
+	manpower=832359
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

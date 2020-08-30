@@ -1,0 +1,29 @@
+
+state={
+	id=242
+	name="STATE_242"
+
+	history={
+		owner = EST
+		victory_points = {
+			3151 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = EST
+		add_core_of = X27
+		add_core_of = X30
+	}
+
+	provinces={
+		79 149 181 3151 6139 6174 6197 9097 9098 11032 11080 11139 11186 
+	}
+	manpower=70684
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

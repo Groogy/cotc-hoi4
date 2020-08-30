@@ -1,0 +1,32 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 2156
+		task_force = {
+			name = "1st Fleet"
+			location = 2156
+			ship = { name = "1st Piura Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X54 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X54"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X54"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

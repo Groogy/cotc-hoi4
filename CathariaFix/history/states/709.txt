@@ -1,0 +1,32 @@
+
+state={
+	id=709
+	name="STATE_709"
+	resources={
+		aluminium=0.000
+		chromium=11.000
+		tungsten=18.000
+	}
+
+	history={
+		owner = X42
+		victory_points = {
+			8087 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = X42
+	}
+
+	provinces={
+		1275 1317 1359 4280 4472 5019 5063 5104 7060 7411 8087 10259 10311 10324 10511 10799 11950 12114 12226 
+	}
+	manpower=1513348
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

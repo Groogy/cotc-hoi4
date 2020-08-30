@@ -1,0 +1,28 @@
+
+state={
+	id=423
+	name="STATE_423"
+
+	history={
+		owner = X12
+		victory_points = {
+			4872 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = X12
+		add_core_of = X50
+	}
+
+	provinces={
+		1848 1873 3721 4426 4790 4872 12145 
+	}
+	manpower=871746
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

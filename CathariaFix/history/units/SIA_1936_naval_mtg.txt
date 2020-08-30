@@ -1,0 +1,88 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 7427
+		task_force = {
+			name = "3rd Fleet"
+			location = 7427
+			ship = { name = "Ratsadatiratkumar" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Boromtrailokanat" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Ramathibodi" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Ramesuan" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Boromaratchathirat" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Boromaratcha" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Petratcha" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Sanpet" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Narai" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Atitthayawong" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Boromma Ratcha" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Naresuan" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Chakrapat" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Chakrapat" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Mahintharathirat" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Worawong" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Boromtrailokanat" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "Thong Lun" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = SIA version_name = "Early Battleship" } } }
+			ship = { name = "4th Mergui Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Bassein Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Mergui Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Bassein Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "5th Mergui Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Yala" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Narathiwat" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Trang" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Phuket" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Chumphon" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Surat Thani" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Nakhon Srithammarat" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Krabi" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ranong" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Prachuap Khirikhan" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Phangnga" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Phattalung" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Satun" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Songkla" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Pattani" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Malacca Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Malacca Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Malacca Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 12230
+		task_force = {
+			name = "1st Fleet"
+			location = 12230
+			ship = { name = "3rd Mergui Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Mergui Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Phuket Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Phuket Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Kampot Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Malacca Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = SIA version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "SIA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "SIA"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

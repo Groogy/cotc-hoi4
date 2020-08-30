@@ -1,0 +1,34 @@
+
+state={
+	id=15
+	name="STATE_15"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = BLZ
+		victory_points = {
+			12878 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			12878 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = BLZ
+	}
+
+	provinces={
+		12878 
+	}
+	manpower=224183
+	buildings_max_level_factor=1.000
+	state_category=town
+}

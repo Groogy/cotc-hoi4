@@ -1,0 +1,32 @@
+
+state={
+	id=341
+	name="STATE_341"
+
+	history={
+		owner = X10
+		victory_points = {
+			10124 8 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 1
+			7115 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = JAP
+		add_core_of = X10
+	}
+
+	provinces={
+		1123 7115 10124 11932 
+	}
+	manpower=1091280
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

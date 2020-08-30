@@ -1,0 +1,28 @@
+
+state={
+	id=192
+	name="STATE_192"
+
+	history={
+		owner = EGY
+		victory_points = {
+			12320 7 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 3
+			air_base = 2
+
+		}
+		add_core_of = PER
+		add_core_of = X20
+	}
+
+	provinces={
+		3564 4660 6642 6997 11708 12320 12380 12441 12450 
+	}
+	manpower=1743084
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

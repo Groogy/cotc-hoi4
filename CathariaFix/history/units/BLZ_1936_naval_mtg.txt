@@ -1,0 +1,133 @@
+units = {
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 1988
+		task_force = {
+			name = "5th Fleet"
+			location = 1988
+			ship = { name = "7th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "8th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "9th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "5th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "1st Rivas Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Limï¿½n Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Rivas Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Rivas Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Narkunda" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Aramadale" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Bayano" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Empress of Asia" definition = destroyer start_experience_factor = 0.18467 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Alsation" definition = destroyer start_experience_factor = 0.04262 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Orama" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "4th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "6th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Changuinola" definition = destroyer start_experience_factor = 0.04603 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Cedric" definition = destroyer start_experience_factor = 0.04616 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Caronia" definition = destroyer start_experience_factor = 0.04262 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Carmania" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Avoca" definition = destroyer start_experience_factor = 0.03935 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Calgarian" definition = destroyer start_experience_factor = 0.03935 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Motagua" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Inverlyon" definition = destroyer start_experience_factor = 0.04328 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Baralong" definition = destroyer start_experience_factor = 0.04354 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Prize" definition = destroyer start_experience_factor = 0.04483 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Mantua" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Mauretania" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Montezuma" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Morea" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Kinfauns Castle" definition = destroyer start_experience_factor = 0.18467 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Laconia" definition = destroyer start_experience_factor = 0.18467 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Laurentic" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "City of London" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Alcantara" definition = destroyer start_experience_factor = 0.04757 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Almanzora" definition = destroyer start_experience_factor = 0.04616 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Caribbean" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Ambrose" definition = destroyer start_experience_factor = 0.0488 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Clan MacNaughton" definition = destroyer start_experience_factor = 0.0492 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "India" definition = destroyer start_experience_factor = 0.17051 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Prince Charles" definition = destroyer start_experience_factor = 0.04616 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Macedonia" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Andes" definition = destroyer start_experience_factor = 0.04761 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Aquitania" definition = destroyer start_experience_factor = 0.04616 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Empress of Russia" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Eskimo" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Kildonan Castle" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Celtic" definition = destroyer start_experience_factor = 0.04262 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Naldera" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Caribbean" definition = destroyer start_experience_factor = 0.04616 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Lusitania" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Carmania" definition = destroyer start_experience_factor = 0.0497 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Mount Temple" definition = destroyer start_experience_factor = 0.1868 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Oceanic" definition = destroyer start_experience_factor = 0.15213 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Olympic" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Ophir" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Orbita" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Cedric" definition = destroyer start_experience_factor = 0.04616 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Celtic" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "City of London" definition = destroyer start_experience_factor = 0.03832 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Berrida" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Calyx" definition = destroyer start_experience_factor = 0.0494 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "1st Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "4th Rivas Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "2nd San Pedro Sula Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "3rd San Pedro Sula Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "4th San Pedro Sula Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "5th San Pedro Sula Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Farnborough" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Limï¿½n Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Princess" definition = destroyer start_experience_factor = 0.2303 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Teutonic" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Victorian" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Virginian" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Moldavia" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Avenger" definition = destroyer start_experience_factor = 0.0403 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Changuinola" definition = destroyer start_experience_factor = 0.04935 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Columbella" definition = destroyer start_experience_factor = 0.12788 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Digby" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Erbro" definition = destroyer start_experience_factor = 0.18127 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "1st San Pedro Sula Commerce Raider" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Marmora" definition = destroyer start_experience_factor = 0.18181 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Himalaya" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "4th Limï¿½n Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Edinburgh Castle" definition = destroyer start_experience_factor = 0.13422 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Empress of Britain" definition = destroyer start_experience_factor = 0.18467 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "5th Rivas Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "6th San Pedro Sula Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "6th Rivas Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "7th San Pedro Sula Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+		}
+	}
+	fleet = {
+		name = "7th Fleet"
+		naval_base = 10886
+		task_force = {
+			name = "7th Fleet"
+			location = 10886
+			ship = { name = "10th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Hilary" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Hildebrand" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Empress of Japan" definition = destroyer start_experience_factor = 0.17051 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Ambrose" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Arlanza" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Scotia" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "Viknor" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "11th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+			ship = { name = "12th Mejicopolis Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = BLZ version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "BLZ"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

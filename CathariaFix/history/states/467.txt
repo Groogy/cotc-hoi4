@@ -1,0 +1,30 @@
+
+state={
+	id=467
+	name="STATE_467"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = ROM
+		victory_points = {
+			693 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = HUN
+	}
+
+	provinces={
+		676 693 3665 3694 9619 11622 
+	}
+	manpower=388749
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

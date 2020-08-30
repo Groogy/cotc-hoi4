@@ -1,0 +1,33 @@
+
+state={
+	id=515
+	name="STATE_515"
+	resources={
+		aluminium=32.000
+		oil=100.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			10798 9 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 11
+			arms_factory = 1
+			air_base = 4
+
+		}
+		add_core_of = BLZ
+		add_core_of = USA
+		add_core_of = X12
+	}
+
+	provinces={
+		1618 1806 2043 4919 5103 6803 7762 7904 7945 8025 9822 10702 10798 11743 11802 12624 
+	}
+	manpower=2328983
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

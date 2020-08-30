@@ -1,0 +1,28 @@
+
+state={
+	id=64
+	name="STATE_64"
+
+	history={
+		owner = X05
+		victory_points = {
+			4455 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = JAP
+		add_core_of = X05
+	}
+
+	provinces={
+		4455 
+	}
+	manpower=23775
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

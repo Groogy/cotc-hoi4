@@ -1,0 +1,30 @@
+
+state={
+	id=43
+	name="STATE_43"
+
+	history={
+		owner = BRA
+		victory_points = {
+			5023 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			5023 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		5023 
+	}
+	manpower=209181
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

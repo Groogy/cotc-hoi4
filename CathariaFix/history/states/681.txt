@@ -1,0 +1,27 @@
+
+state={
+	id=681
+	name="STATE_681"
+
+	history={
+		owner = X41
+		victory_points = {
+			12967 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		12967 
+	}
+	manpower=96542
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

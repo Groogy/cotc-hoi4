@@ -1,0 +1,37 @@
+
+state={
+	id=539
+	name="STATE_539"
+	resources={
+		aluminium=12.000
+		steel=60.000
+	}
+
+	history={
+		owner = WLL
+		victory_points = {
+			11483 8 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+			11420 = {
+				naval_base = 6
+			}
+			air_base = 5
+
+		}
+		add_core_of = FRA
+		add_core_of = GER
+		add_core_of = WLL
+		add_core_of = X28
+	}
+
+	provinces={
+		454 3476 3536 6504 6585 9561 11420 11483 
+	}
+	manpower=1822423
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

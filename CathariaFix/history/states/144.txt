@@ -1,0 +1,33 @@
+
+state={
+	id=144
+	name="STATE_144"
+	resources={
+		oil=5.000
+		rubber=21.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			10199 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			10199 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1306 4338 7358 10199 10240 12186 12228 
+	}
+	manpower=250401
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

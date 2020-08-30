@@ -1,0 +1,151 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 7447
+		task_force = {
+			name = "1st Fleet"
+			location = 7447
+			ship = { name = "1st Boli Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Okhotsk Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Jinzhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Fuzhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Boli Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Okhotsk Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Jinzhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Fuzhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Huaian Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Huaian Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Shanghai Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Lang Son Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Thanh Hoa Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Canton Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Lang Son Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Thanh Hoa Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Canton Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Chaozhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Chaozhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Merah Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Taibei Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Boli Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Okhotsk Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Jinzhou Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Fuzhou Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Huaian Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Lang Son Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Thanh Hoa Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Canton Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Chaozhou Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 4196
+		task_force = {
+			name = "4th Fleet"
+			location = 4196
+			ship = { name = "1st Okhotsk Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Boli Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Jinzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Fuzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Huaian Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Shanghai Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Laizhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Wuding Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Okhotsk Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Boli Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Jinzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Fuzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Huaian Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Shanghai Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Laizhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Wuding Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Hangzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Hangzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Okhotsk Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Boli Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Jinzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Fuzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Tangshan Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Tangshan Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Huaian Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Shanghai Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Ugolnoye Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Laizhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Wuding Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Ugolnoye Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Hangzhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Tangshan Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Ugolnoye Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Shanghai Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Laizhou Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Wuding Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Laizhou Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Wuding Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Hangzhou Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Hangzhou Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Tangshan Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Tangshan Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Ugolnoye Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Ugolnoye Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Shanghai Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Laizhou Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Wuding Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Hangzhou Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Cheju Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Tangshan Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Ugolnoye Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = X10 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 1047
+		task_force = {
+			name = "5th Fleet"
+			location = 1047
+			ship = { name = "1st Lang Son Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Thanh Hoa Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Canton Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Lang Son Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Thanh Hoa Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Canton Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Lang Son Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Thanh Hoa Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Canton Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 9978
+		task_force = {
+			name = "2nd Fleet"
+			location = 9978
+			ship = { name = "1st Chaozhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Chaozhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Chaozhou Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Hong Kong Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = X10 version_name = "1936 Battleship" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "X10"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "X10"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

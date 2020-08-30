@@ -1,0 +1,35 @@
+
+state={
+	id=30
+	name="STATE_30"
+	resources={
+		aluminium=8.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			4575 6 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			arms_factory = 0
+			dockyard = 2
+			10447 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = BRA
+		add_core_of = X13
+	}
+
+	provinces={
+		1542 1585 1598 4436 4575 4589 4604 5110 7581 7594 7638 10447 12396 
+	}
+	manpower=1374588
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

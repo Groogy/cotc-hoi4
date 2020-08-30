@@ -1,0 +1,27 @@
+
+state={
+	id=696
+	name="STATE_696"
+
+	history={
+		owner = X42
+		victory_points = {
+			4357 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = X42
+	}
+
+	provinces={
+		4357 12103 
+	}
+	manpower=103737
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,161 @@
+focus_tree = {
+	id = X41_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = X41
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = The_third_wayX41
+		icon = GFX_goal_support_fascism
+		text = The_third_way
+		x = 26
+		y = 0
+		cost = 10
+		completion_reward = {
+			add_named_threat = { threat = 2 name = The_third_way }
+			add_ideas = fascist_influence
+		}
+		ai_will_do = {
+		factor = 5
+		}
+	}
+
+	focus = {
+		id = mil_marchX41
+		icon = GFX_goal_generic_allies_build_infantry
+		text = mil_march
+		prerequisite = { focus = The_third_wayX41 }
+		x = 0
+		y = 1
+		relative_position_id = The_third_wayX41
+		cost = 10
+		completion_reward = {
+		army_experience = 20
+		add_tech_bonus = {
+			bonus = 0.5
+			uses = 2
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		}
+	}
+
+	focus = {
+		id = expand_the_reichX41
+		icon = GFX_goal_generic_political_pressure
+		text = expand_the_reich
+		x = 28
+		y = 0
+		cost = 10
+		completion_reward = {
+			add_named_threat = { threat = 3 name = expand_the_reich }
+			add_political_power = 150
+		}
+		ai_will_do = {
+		factor = 5
+		}
+	}
+
+	focus = {
+		id = Fas_SummitX41
+		icon = GFX_goal_generic_allies_build_infantry
+		text = Fascist_Summit
+		x = 29
+		y = 0
+		cost = 10
+		completion_reward = {
+			add_named_threat = { threat = 3 name = "Call for the Fascist Summit" }
+			add_political_power = 150
+		}
+		ai_will_do = {
+		factor = 2
+		modifier = {
+			factor = 10
+			date > 1938.1.1
+		}
+	}
+	}
+
+	focus = {
+		id = Alliance_DENX41
+		icon = GFX_goal_generic_allies_build_infantry
+		text = Alliance_DEN
+		prerequisite = { focus = Fas_SummitX41 }
+		bypass = {
+			OR = {
+				X41 = { is_in_faction_with = DEN}
+				has_war_with = DEN
+				NOT = { country_exists = DEN }
+			}
+		}
+		x = -1
+		y = 1
+		relative_position_id = Fas_SummitX41
+		cost = 10
+		available = {
+			OR = {
+				is_faction_leader = yes
+				is_in_faction = no
+			}
+	}
+		completion_reward = {
+			DEN = {
+				country_event = { hours = 6 id = NFEvents.1 }
+				add_opinion_modifier = { target = X41 modifier = positive_50 }
+			}
+		}
+		ai_will_do = {
+			factor = 10
+	}
+	}
+
+	focus = {
+		id = Alliance_HUNX41
+		icon = GFX_goal_generic_allies_build_infantry
+		text = Alliance_HUN
+		prerequisite = { focus = Fas_SummitX41 }
+		bypass = {
+			OR = {
+				X41 = { is_in_faction_with = HUN}
+				has_war_with = HUN
+				NOT = { country_exists = HUN }
+			}
+		}
+		x = 1
+		y = 1
+		relative_position_id = Fas_SummitX41
+		cost = 10
+		available = {
+			OR = {
+				is_faction_leader = yes
+				is_in_faction = no
+			}
+	}
+		completion_reward = {
+			HUN = {
+				country_event = { hours = 6 id = NFEvents.2 }
+				add_opinion_modifier = { target = X41 modifier = positive_50 }
+			}
+		}
+		ai_will_do = {
+			factor = 10
+	}
+	}
+
+}

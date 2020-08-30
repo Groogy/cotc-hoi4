@@ -1,0 +1,30 @@
+
+state={
+	id=776
+	name="STATE_776"
+	resources={
+		oil=21.000
+	}
+
+	history={
+		owner = X52
+		victory_points = {
+			4942 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X52
+	}
+
+	provinces={
+		4892 4942 5000 5056 
+	}
+	manpower=283266
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

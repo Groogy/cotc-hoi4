@@ -1,0 +1,36 @@
+
+state={
+	id=302
+	name="STATE_302"
+	resources={
+		chromium=7.000
+		oil=3.000
+		steel=4.000
+		tungsten=9.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			2017 9 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
+
+		}
+		add_core_of = PER
+		add_core_of = X10
+		add_core_of = X20
+		add_core_of = X38
+	}
+
+	provinces={
+		1948 2017 2062 2101 4893 7448 7584 7984 8053 10476 10852 12248 12871 12877 
+	}
+	manpower=2190238
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

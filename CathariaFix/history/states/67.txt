@@ -1,0 +1,33 @@
+
+state={
+	id=67
+	name="STATE_67"
+	resources={
+		oil=11.000
+	}
+
+	history={
+		owner = COL
+		victory_points = {
+			8113 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			8113 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		7968 8113 
+	}
+	manpower=568325
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

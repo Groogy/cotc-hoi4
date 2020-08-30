@@ -1,0 +1,27 @@
+
+state={
+	id=394
+	name="STATE_394"
+
+	history={
+		owner = JAP
+		victory_points = {
+			13090 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = JAP
+	}
+
+	provinces={
+		1135 1830 7855 10694 12661 13090 
+	}
+	manpower=119074
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

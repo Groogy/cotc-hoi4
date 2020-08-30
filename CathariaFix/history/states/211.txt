@@ -1,0 +1,32 @@
+
+state={
+	id=211
+	name="STATE_211"
+	resources={
+		chromium=7.000
+		steel=1.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			10538 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		697 10538 
+	}
+	manpower=120646
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

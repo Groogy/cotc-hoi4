@@ -1,0 +1,35 @@
+
+state={
+	id=736
+	name="STATE_736"
+	resources={
+		rubber=40.000
+	}
+
+	history={
+		owner = X43
+		victory_points = {
+			1574 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			10263 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X16
+		add_core_of = X43
+	}
+
+	provinces={
+		1098 1289 1419 1437 1561 1574 1589 4262 4307 4308 4349 4564 7311 7336 7369 7413 7557 7598 10141 10153 10169 10197 10263 10342 10409 10450 10464 12330 12358 12444 
+	}
+	manpower=1929642
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

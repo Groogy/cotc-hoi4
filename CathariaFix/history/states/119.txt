@@ -1,0 +1,33 @@
+
+state={
+	id=119
+	name="STATE_119"
+	resources={
+		chromium=6.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			11774 6 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			arms_factory = 2
+			11774 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		11774 11905 
+	}
+	manpower=874839
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

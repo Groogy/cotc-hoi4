@@ -1,0 +1,35 @@
+
+state={
+	id=570
+	name="STATE_570"
+	resources={
+		aluminium=14.000
+		chromium=1.000
+		tungsten=24.000
+	}
+
+	history={
+		owner = X26
+		victory_points = {
+			11136 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			11136 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X26
+	}
+
+	provinces={
+		131 159 200 3150 3159 3178 6046 6062 6104 6196 6205 6300 9075 9090 9161 11055 11064 11136 11161 11207 11266 11306 
+	}
+	manpower=441279
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

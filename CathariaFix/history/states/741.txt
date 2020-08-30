@@ -1,0 +1,27 @@
+
+state={
+	id=741
+	name="STATE_741"
+
+	history={
+		owner = X43
+		victory_points = {
+			4226 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X43
+	}
+
+	provinces={
+		1358 4226 4378 10234 
+	}
+	manpower=219967
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

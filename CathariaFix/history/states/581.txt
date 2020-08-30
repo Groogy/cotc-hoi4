@@ -1,0 +1,31 @@
+
+state={
+	id=581
+	name="STATE_581"
+
+	history={
+		owner = X27
+		victory_points = {
+			362 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			362 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = DEN
+		add_core_of = X27
+	}
+
+	provinces={
+		362 
+	}
+	manpower=236599
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=779
+	name="STATE_779"
+	resources={
+		oil=19.000
+		steel=2.000
+	}
+
+	history={
+		owner = X53
+		victory_points = {
+			12845 7 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 4
+			arms_factory = 1
+			dockyard = 3
+			10494 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = X53
+	}
+
+	provinces={
+		1937 2023 2085 4969 8056 10494 10864 12703 12790 12845 
+	}
+	manpower=2451810
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

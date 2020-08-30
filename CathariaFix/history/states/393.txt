@@ -1,0 +1,36 @@
+
+state={
+	id=393
+	name="STATE_393"
+	resources={
+		chromium=3.000
+		steel=5.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			10203 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			10203 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = ITA
+		add_core_of = X41
+	}
+
+	provinces={
+		1106 10203 
+	}
+	manpower=238934
+	buildings_max_level_factor=1.000
+	state_category=town
+}

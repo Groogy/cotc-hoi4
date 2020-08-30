@@ -1,0 +1,28 @@
+
+state={
+	id=554
+	name="STATE_554"
+
+	history={
+		owner = X25
+		victory_points = {
+			778 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = ITA
+		add_core_of = X25
+	}
+
+	provinces={
+		778 6609 9603 9745 11573 
+	}
+	manpower=518008
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

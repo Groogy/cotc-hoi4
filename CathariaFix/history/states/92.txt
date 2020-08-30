@@ -1,0 +1,29 @@
+
+state={
+	id=92
+	name="STATE_92"
+
+	history={
+		owner = X06
+		victory_points = {
+			13014 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 0
+			13014 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		13014 
+	}
+	manpower=79131
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

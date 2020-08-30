@@ -1,0 +1,30 @@
+
+state={
+	id=195
+	name="STATE_195"
+
+	history={
+		owner = EGY
+		victory_points = {
+			5098 8 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 9
+			arms_factory = 2
+			air_base = 3
+
+		}
+		add_core_of = EGY
+		add_core_of = KUR
+		add_core_of = PER
+		add_core_of = X20
+	}
+
+	provinces={
+		829 2065 4943 5050 5098 8040 8125 9816 10774 12773 
+	}
+	manpower=1929490
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

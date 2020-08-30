@@ -1,0 +1,29 @@
+
+state={
+	id=635
+	name="STATE_635"
+
+	history={
+		owner = X37
+		victory_points = {
+			3653 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			3653 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		3653 
+	}
+	manpower=363592
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=309
+	name="STATE_309"
+
+	history={
+		owner = X10
+		victory_points = {
+			4613 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		4339 4568 4613 7075 7103 7218 7356 9961 10330 10356 10456 10496 12392 12433 
+	}
+	manpower=576493
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

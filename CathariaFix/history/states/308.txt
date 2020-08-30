@@ -1,0 +1,32 @@
+
+state={
+	id=308
+	name="STATE_308"
+	resources={
+		chromium=2.000
+		steel=1.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			4386 6 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+			arms_factory = 3
+			air_base = 2
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		4386 4435 4987 5310 7374 8010 10825 10910 12860 12892 
+	}
+	manpower=1416186
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

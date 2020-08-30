@@ -1,0 +1,77 @@
+units = {
+	fleet = {
+		name = "Atlantic Fleet"
+		naval_base = 9737
+		task_force = {
+			name = "Atlantic Fleet"
+			location = 9737
+			ship = { name = "3rd La Rocella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "4th Brest Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "2nd Barcelona Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "2nd Castellï¿½ Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "4th La Rocella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Castellï¿½ Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "2nd Narbona Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "3rd Frejus Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "4th Rouen Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "5th La Roche Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "5th La Rocella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "3rd Bilbao Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Bresilianda" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Blanquet" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Alaricus" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Arvernia" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Cassivellaunus" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Magetobriga" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Orgetorix" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Cisalpina" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Septimania" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Rouen Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Channel Islands Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Brest Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st La Roche Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "2nd Rouen Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st La Rocella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Narbona Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Bordï¿½u Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "2nd Brest Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "2nd Channel Islands Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Frejus Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "2nd La Rocella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Bilbao Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "1st Barcelona Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Aquitania" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Atlas" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Celestial" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Champion" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Augustus" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Gallia" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Occitania" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Bearn" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "AgarnaguÃ©s" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Berric" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X25 } } }
+			ship = { name = "Castanhau" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X25 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X25"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X25"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

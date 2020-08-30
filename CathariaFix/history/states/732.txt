@@ -1,0 +1,31 @@
+
+state={
+	id=732
+	name="STATE_732"
+	resources={
+		oil=3.000
+		rubber=2.000
+	}
+
+	history={
+		owner = X43
+		victory_points = {
+			1581 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X43
+	}
+
+	provinces={
+		997 1075 1553 1581 7179 7634 10090 10514 
+	}
+	manpower=517846
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

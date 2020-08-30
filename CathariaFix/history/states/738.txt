@@ -1,0 +1,33 @@
+
+state={
+	id=738
+	name="STATE_738"
+	resources={
+		rubber=3.000
+	}
+
+	history={
+		owner = X43
+		victory_points = {
+			1355 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			1355 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = X43
+	}
+
+	provinces={
+		1326 1339 1355 4358 12178 12190 12206 13001 
+	}
+	manpower=667325
+	buildings_max_level_factor=1.000
+	state_category=town
+}

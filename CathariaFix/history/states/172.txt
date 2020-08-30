@@ -1,0 +1,31 @@
+
+state={
+	id=172
+	name="STATE_172"
+
+	history={
+		owner = EGY
+		victory_points = {
+			13015 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			13015 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		13015 
+	}
+	manpower=263956
+	buildings_max_level_factor=1.000
+	state_category=town
+}

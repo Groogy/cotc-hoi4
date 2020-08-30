@@ -1,0 +1,27 @@
+
+state={
+	id=333
+	name="STATE_333"
+
+	history={
+		owner = X10
+		victory_points = {
+			1519 9 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 7
+			arms_factory = 5
+			air_base = 4
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		1034 1180 1203 1438 1519 1531 1575 4074 4174 4469 4538 4634 7571 10367 10421 10507 12078 12300 12344 
+	}
+	manpower=3111654
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

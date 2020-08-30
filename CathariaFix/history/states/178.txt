@@ -1,0 +1,32 @@
+
+state={
+	id=178
+	name="STATE_178"
+	resources={
+		chromium=20.000
+		steel=4.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			10929 9 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 12
+			arms_factory = 0
+			air_base = 4
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		1874 2151 2216 4851 7842 10929 
+	}
+	manpower=2264941
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=624
+	name="STATE_624"
+
+	history={
+		owner = X37
+		victory_points = {
+			117 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X37
+	}
+
+	provinces={
+		8 57 71 110 117 152 172 194 320 3089 3110 3140 3142 6035 6086 6095 6131 6154 6169 6225 9060 9107 9111 9177 9184 9212 9234 9319 9331 11048 11072 11109 11174 11191 11304 
+	}
+	manpower=404325
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

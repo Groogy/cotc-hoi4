@@ -1,0 +1,53 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 10494
+		task_force = {
+			name = "1st Fleet"
+			location = 10494
+			ship = { name = "1st Buenaventura Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Guayaquil Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Quibdo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "2nd Guayaquil Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "2nd Buenaventura Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Guayaquil Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Buenaventura Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "2nd Guayaquil Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Quibdo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "3rd Guayaquil Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "2nd Quibdo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Quibdo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Buenaventura Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "2nd Quibdo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "3rd Quibdo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "4th Quibdo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "2nd Buenaventura Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "3rd Buenaventura Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "5th Quibdo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "6th Quibdo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "1st Guayaquil Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+			ship = { name = "7th Quibdo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X53 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X53"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X53"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

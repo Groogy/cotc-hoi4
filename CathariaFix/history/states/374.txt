@@ -1,0 +1,27 @@
+
+state={
+	id=374
+	name="STATE_374"
+
+	history={
+		owner = IRE
+		victory_points = {
+			11237 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = IRE
+	}
+
+	provinces={
+		6289 6313 6405 7394 9284 9310 9405 11237 11267 11334 
+	}
+	manpower=186184
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

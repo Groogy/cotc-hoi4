@@ -1,0 +1,30 @@
+
+state={
+	id=434
+	name="STATE_434"
+	resources={
+		tungsten=12.000
+	}
+
+	history={
+		owner = X14
+		victory_points = {
+			1851 6 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 5
+			air_base = 2
+
+		}
+		add_core_of = X14
+	}
+
+	provinces={
+		1736 1767 1851 1854 4741 4838 4857 6742 7760 7779 7880 10587 10706 12572 12585 12676 
+	}
+	manpower=991527
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

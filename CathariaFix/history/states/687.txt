@@ -1,0 +1,33 @@
+
+state={
+	id=687
+	name="STATE_687"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = X41
+		victory_points = {
+			12985 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 0
+			arms_factory = 1
+			12985 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		8138 8202 10966 12391 12985 
+	}
+	manpower=306763
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

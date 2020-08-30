@@ -1,0 +1,31 @@
+
+state={
+	id=271
+	name="STATE_271"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			6535 9 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 4
+
+		}
+		add_core_of = GER
+		add_core_of = X46
+	}
+
+	provinces={
+		405 495 3355 3398 3512 6535 6622 9443 9509 9547 11346 11431 11533 
+	}
+	manpower=3692087
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=311
+	name="STATE_311"
+	resources={
+		chromium=3.000
+		steel=3.000
+		tungsten=10.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			11936 8 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 7
+			arms_factory = 2
+			dockyard = 1
+			11936 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		1302 4379 4397 7280 9988 10016 11909 11936 12297 
+	}
+	manpower=1724198
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=553
+	name="STATE_553"
+	resources={
+		aluminium=53.000
+		steel=74.000
+	}
+
+	history={
+		owner = X25
+		victory_points = {
+			9898 6 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 4
+			dockyard = 1
+			3946 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = FRA
+		add_core_of = X25
+	}
+
+	provinces={
+		760 3751 3946 6915 6917 6960 6962 9853 9898 11709 
+	}
+	manpower=1702525
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

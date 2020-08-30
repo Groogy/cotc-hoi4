@@ -1,0 +1,35 @@
+
+state={
+	id=427
+	name="STATE_427"
+	resources={
+		aluminium=6.000
+		oil=3.000
+	}
+
+	history={
+		owner = X13
+		victory_points = {
+			12306 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 0
+			dockyard = 1
+			10953 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = X13
+	}
+
+	provinces={
+		2199 8161 8176 8192 10953 10981 11005 12306 12349 12982 
+	}
+	manpower=1036012
+	buildings_max_level_factor=1.000
+	state_category=city
+}

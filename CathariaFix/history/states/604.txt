@@ -1,0 +1,30 @@
+
+state={
+	id=604
+	name="STATE_604"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = X36
+		victory_points = {
+			7330 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X36
+	}
+
+	provinces={
+		99 108 3081 3155 7330 11061 11200 
+	}
+	manpower=110333
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

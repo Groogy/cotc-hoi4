@@ -1,0 +1,31 @@
+
+state={
+	id=607
+	name="STATE_607"
+	resources={
+		aluminium=8.000
+		oil=22.000
+	}
+
+	history={
+		owner = X37
+		victory_points = {
+			11479 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X37
+	}
+
+	provinces={
+		438 462 491 536 3483 3562 9454 9468 9558 11427 11479 
+	}
+	manpower=236998
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

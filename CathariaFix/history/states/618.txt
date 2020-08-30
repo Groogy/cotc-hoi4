@@ -1,0 +1,36 @@
+
+state={
+	id=618
+	name="STATE_618"
+	resources={
+		chromium=13.000
+		oil=0.000
+	}
+
+	history={
+		owner = X37
+		victory_points = {
+			737 3 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			721 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X11
+		add_core_of = X37
+	}
+
+	provinces={
+		568 574 721 737 3403 3755 6451 6478 9573 9712 11546 11561 11683 11715 
+	}
+	manpower=293455
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

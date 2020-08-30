@@ -1,0 +1,27 @@
+
+state={
+	id=453
+	name="STATE_453"
+
+	history={
+		owner = PRU
+		victory_points = {
+			8213 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = PRU
+	}
+
+	provinces={
+		8213 10970 
+	}
+	manpower=266587
+	buildings_max_level_factor=1.000
+	state_category=town
+}

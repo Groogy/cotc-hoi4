@@ -1,0 +1,31 @@
+
+state={
+	id=384
+	name="STATE_384"
+
+	history={
+		owner = ITA
+		victory_points = {
+			3838 3 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			3838 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = ITA
+		add_core_of = X41
+	}
+
+	provinces={
+		3838 9851 11804 
+	}
+	manpower=343964
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

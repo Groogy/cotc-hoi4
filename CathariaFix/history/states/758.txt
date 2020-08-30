@@ -1,0 +1,31 @@
+
+state={
+	id=758
+	name="STATE_758"
+	resources={
+		aluminium=38.000
+		steel=110.000
+	}
+
+	history={
+		owner = X46
+		victory_points = {
+			9570 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 2
+			air_base = 1
+
+		}
+		add_core_of = X46
+	}
+
+	provinces={
+		552 3283 3438 3485 3510 3545 6462 6534 6595 9470 9570 11517 
+	}
+	manpower=663694
+	buildings_max_level_factor=1.000
+	state_category=city
+}

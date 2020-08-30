@@ -1,0 +1,30 @@
+
+state={
+	id=169
+	name="STATE_169"
+	resources={
+		rubber=0.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			5010 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		4995 5010 7980 8036 10775 12714 12757 12812 
+	}
+	manpower=750546
+	buildings_max_level_factor=1.000
+	state_category=town
+}

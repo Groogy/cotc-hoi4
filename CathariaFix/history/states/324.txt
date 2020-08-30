@@ -1,0 +1,31 @@
+
+state={
+	id=324
+	name="STATE_324"
+	resources={
+		rubber=1.000
+		steel=3.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			12467 9 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		1036 4619 4631 7167 7580 7637 9959 10462 12467 
+	}
+	manpower=2731338
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

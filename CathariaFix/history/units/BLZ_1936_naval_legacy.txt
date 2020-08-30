@@ -1,0 +1,141 @@
+units = {
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 1988
+		task_force = {
+			name = "5th Fleet"
+			location = 1988
+			ship = { name = "7th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "8th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "9th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "5th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "3rd Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "1st Rivas Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "3rd Limï¿½n Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "2nd Rivas Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "3rd Rivas Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Narkunda" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Aramadale" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Bayano" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Empress of Asia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Alsation" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Orama" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "4th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "6th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Changuinola" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Cedric" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Caronia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Carmania" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Avoca" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Calgarian" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Motagua" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Inverlyon" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Baralong" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Prize" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Mantua" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Mauretania" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Montezuma" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Morea" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Kinfauns Castle" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Laconia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Laurentic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "City of London" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Alcantara" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Almanzora" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Caribbean" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Ambrose" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Clan MacNaughton" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "India" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Prince Charles" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Macedonia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Andes" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Aquitania" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Empress of Russia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Eskimo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Kildonan Castle" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Celtic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Naldera" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Caribbean" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Lusitania" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Carmania" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Mount Temple" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Oceanic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Olympic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Ophir" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Orbita" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Cedric" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Celtic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "City of London" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Berrida" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Calyx" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "1st Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "4th Rivas Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "2nd San Pedro Sula Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "2nd Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "3rd San Pedro Sula Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "4th San Pedro Sula Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "5th San Pedro Sula Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Farnborough" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "2nd Limï¿½n Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Princess" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Teutonic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Victorian" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Virginian" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Moldavia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Avenger" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Changuinola" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Columbella" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Digby" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Erbro" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "1st San Pedro Sula Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Marmora" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Himalaya" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "4th Limï¿½n Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Edinburgh Castle" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Empress of Britain" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "5th Rivas Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "6th San Pedro Sula Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "6th Rivas Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "7th San Pedro Sula Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+		}
+	}
+	fleet = {
+		name = "7th Fleet"
+		naval_base = 10886
+		task_force = {
+			name = "7th Fleet"
+			location = 10886
+			ship = { name = "10th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Hilary" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Hildebrand" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Empress of Japan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Ambrose" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Arlanza" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Scotia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Viknor" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "11th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+			ship = { name = "12th Mejicopolis Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BLZ } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "BLZ"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "BLZ"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

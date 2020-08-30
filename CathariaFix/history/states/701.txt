@@ -1,0 +1,35 @@
+
+state={
+	id=701
+	name="STATE_701"
+	resources={
+		chromium=6.000
+		steel=4.000
+	}
+
+	history={
+		owner = X42
+		victory_points = {
+			8098 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			1179 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = X42
+	}
+
+	provinces={
+		1179 1978 4990 4998 5043 5075 5105 7847 7917 7975 8013 8044 8066 8098 10813 12717 12761 12774 
+	}
+	manpower=1101479
+	buildings_max_level_factor=1.000
+	state_category=city
+}

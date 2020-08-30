@@ -1,0 +1,30 @@
+
+state={
+	id=114
+	name="STATE_114"
+
+	history={
+		owner = EGY
+		victory_points = {
+			13003 2 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 0
+			13003 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = NOR
+	}
+
+	provinces={
+		13003 
+	}
+	manpower=283554
+	buildings_max_level_factor=1.000
+	state_category=town
+}

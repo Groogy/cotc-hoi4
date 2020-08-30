@@ -1,0 +1,33 @@
+
+state={
+	id=764
+	name="STATE_764"
+
+	history={
+		owner = X48
+		victory_points = {
+			1424 4 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			1424 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = CAN
+		add_core_of = X18
+		add_core_of = X48
+		add_core_of = X50
+	}
+
+	provinces={
+		634 1424 4285 4342 4362 4430 4432 7304 7379 7644 10244 12289 
+	}
+	manpower=11550119
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

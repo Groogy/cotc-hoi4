@@ -1,0 +1,32 @@
+
+state={
+	id=492
+	name="STATE_492"
+	resources={
+		chromium=1.000
+		steel=12.000
+	}
+
+	history={
+		owner = X22
+		victory_points = {
+			6338 8 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = X22
+		add_core_of = X38
+	}
+
+	provinces={
+		260 282 325 372 404 3251 3282 3315 3361 3394 6307 6338 9259 9280 9305 9336 9381 11243 11292 11356 11387 
+	}
+	manpower=75548
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

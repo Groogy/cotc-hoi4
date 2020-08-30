@@ -1,0 +1,33 @@
+
+state={
+	id=334
+	name="STATE_334"
+	resources={
+		aluminium=3.000
+		rubber=0.000
+		steel=17.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = X10
+		victory_points = {
+			11865 9 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 7
+			arms_factory = 5
+			air_base = 4
+
+		}
+		add_core_of = X10
+	}
+
+	provinces={
+		1367 1893 2030 2091 4041 4141 4167 4295 4431 5048 6999 7240 7256 7418 7948 8026 10144 10304 11865 12274 12767 
+	}
+	manpower=3539804
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}
