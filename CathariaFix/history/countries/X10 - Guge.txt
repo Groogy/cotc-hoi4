@@ -250,14 +250,14 @@ set_war_support = 0.60
 create_country_leader = {
     name = "Rinchen VII Purgyal"
     desc = "POLITICS_PENOR_TASHI_DESC"
-    picture = "gfx/leaders/OC/portrait_MON_Punsalmaagiin_Ochirbat.dds"
+    picture = "gfx/leaders/rageair_pool/khorchiia.dds"
     expire = "1965.1.1"
     ideology = conservatism
     traits = {
     }
 }
 create_corps_commander = {
-	name = "Norbhu Shakabpa"
+	name = "Aglen Shakabpa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -268,7 +268,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Mipham Chöphel"
+	name = "Lodrö Chöphel"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -312,7 +312,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Norbhu Dzasa"
+	name = "Pungtsen Dzasa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -323,7 +323,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Penor Rinpoche"
+	name = "Senöl Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -334,7 +334,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Wangyal"
+	name = "Tritog Wangyal"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -367,7 +367,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Andruk Chöphel"
+	name = "Getong Chöphel"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -378,7 +378,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Mipham Shakabpa"
+	name = "Öpoche Shakabpa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -389,7 +389,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Jamphel Dzasa"
+	name = "Desho Dzasa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -400,7 +400,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Penor Wangyal"
+	name = "Zindé Wangyal"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -433,7 +433,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Shatra"
+	name = "Tsemo Shatra"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -444,7 +444,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsepon Dzasa"
+	name = "Pude Dzasa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -466,7 +466,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Rinpoche"
+	name = "Pälkhortsän Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -477,7 +477,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Trimon Dzasa"
+	name = "Mutik Dzasa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -488,7 +488,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Chöphel"
+	name = "Namdé Chöphel"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -510,7 +510,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Penor Shatra"
+	name = "Orgyen Shatra"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -521,7 +521,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Namgang Rinpoche"
+	name = "Lha Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -532,7 +532,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Mipham Tashi"
+	name = "Isho Tashi"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -543,7 +543,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsarong Rinpoche"
+	name = "Öpoche Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -554,7 +554,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Namgang Lungshar"
+	name = "Mangpoje Lungshar"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -565,7 +565,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsepon Tashi"
+	name = "Zungtsen Tashi"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -576,7 +576,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Trimon Wangyal"
+	name = "Thrikhyiding Wangyal"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -587,7 +587,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Trimon Chöphel"
+	name = "Mangpoje Chöphel"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -598,7 +598,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsepon Lungshar"
+	name = "Nyima Lungshar"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -609,7 +609,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsepon Tashi"
+	name = "Rapsel Tashi"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -620,7 +620,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Norbhu Dzasa"
+	name = "Zungtsen Dzasa"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -631,7 +631,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Andruk Shatra"
+	name = "Balpo Shatra"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -642,7 +642,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Jamphel Wangyal"
+	name = "Chakna Wangyal"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -653,7 +653,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Norbhu Tashi"
+	name = "Chatri Tashi"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -664,7 +664,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Trimon Dzasa"
+	name = "Chokey Dzasa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -675,7 +675,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Shakabpa"
+	name = "Chögyal Shakabpa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -686,7 +686,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Gendün Rinpoche"
+	name = "Chukpo Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -697,7 +697,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Mipham Shakabpa"
+	name = "Daktri Shakabpa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -708,7 +708,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Mipham Tashi"
+	name = "Degyal Tashi"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -719,7 +719,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Namgang Lungshar"
+	name = "Denöl Lungshar"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -730,7 +730,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Lungshar"
+	name = "Desho Lungshar"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -741,7 +741,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Jamphel Rinpoche"
+	name = "Detrin Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -752,7 +752,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Shakabpa"
+	name = "Dzamling Shakabpa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -763,7 +763,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Jamphel Tashi"
+	name = "Gyalpo Tashi"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -774,7 +774,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Chöphel"
+	name = "Mutik Chöphel"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -785,7 +785,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Namgang Shatra"
+	name = "Ngawang Shatra"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -796,7 +796,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Andruk Wangyal"
+	name = "Phagpa Wangyal"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -807,7 +807,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Andruk Dzasa"
+	name = "Taktsab Dzasa"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -818,7 +818,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Wangyal"
+	name = "Tawen Wangyal"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -829,7 +829,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Norbhu Shakabpa"
+	name = "Thönmi Shakabpa"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -840,7 +840,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsarong Wangyal"
+	name = "Wangdu Wangyal"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -851,7 +851,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Chamba Rinpoche"
+	name = "Yongten Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 2
@@ -862,7 +862,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsepon Chöphel"
+	name = "Yumtän Chöphel"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -895,7 +895,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Penor Shatra"
+	name = "Palchen Shatra"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -928,7 +928,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Trimon Rinpoche"
+	name = "Zanam Rinpoche"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -939,7 +939,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Namgang Lungshar"
+	name = "Zangtsa Lungshar"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -950,7 +950,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tsarong Chöphel"
+	name = "Zhonnu Chöphel"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -972,7 +972,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Penor Lungshar"
+	name = "Tsugru Lungshar"
 	picture = ""
 	traits = { }
 	skill = 1
@@ -983,7 +983,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Penor Tashi"
+	name = "Zimun Tashi"
 	picture = ""
 	traits = { }
 	skill = 1
