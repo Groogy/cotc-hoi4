@@ -250,7 +250,7 @@ set_war_support = 0.60
 create_country_leader = {
     name = "Rinchen VII Purgyal"
     desc = "POLITICS_PENOR_TASHI_DESC"
-    picture = "gfx/leaders/rageair_pool/khorchiia.dds"
+    picture = "gfx/leaders/rageair_pool/guge.dds"
     expire = "1965.1.1"
     ideology = conservatism
     traits = {
@@ -412,7 +412,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Gendün Lungshar"
-	picture = ""
+	picture = "gfx/leaders/rageair_pool/korunya.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
