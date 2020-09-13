@@ -30,7 +30,7 @@ state={
 	provinces={
 		848 1003 4004 4107 7070 7155 9981 10065 11915 11958 12040 
 	}
-	manpower=605156
+	manpower=916906
 	buildings_max_level_factor=1.000
 	state_category=city
 }
