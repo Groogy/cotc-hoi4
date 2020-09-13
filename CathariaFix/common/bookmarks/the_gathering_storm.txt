@@ -33,7 +33,7 @@ bookmarks = {
 		}
 		X25= {
 			history = "democratic_GP_CONV_DESC"
-			ideology = democratic
+			ideology = communism
 			ideas = { great_power }
 		}
 		X42= {

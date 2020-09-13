@@ -122,16 +122,16 @@ if = {
 }
 
 set_politics = {
-    ruling_party = democratic
+    ruling_party = communism
     last_election = "1932.7.2"
     election_frequency = 48
-    elections_allowed = yes
+    elections_allowed = yes # FOR NOW
 }
 
 set_popularities = {
 	absolutist = 7
-	communism = 3
-	democratic = 77
+	communism = 59
+	democratic = 21
 	fascism = 8
 	neutrality = 5
 }
@@ -241,6 +241,18 @@ create_country_leader = {
     traits = {
     }
 }
+
+create_country_leader = {
+    name = "Grac Réveilhac"
+    desc = "POLITICS_NO_ONE_READS_THIS_DESC"
+    picture = "giuseppe_di_vittorio.dds"
+    expire = "1965.1.1"
+    ideology = marxism
+    traits = {
+    }
+}
+
+
 create_corps_commander = {
 	name = "Folc de Linça"
 	picture = "salvation_army_01.dds"
