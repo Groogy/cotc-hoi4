@@ -1,0 +1,30 @@
+####################################
+#### AQUITANIA - CLONED MEXICO  ####
+####################################
+
+entity = { 
+	clone = "MEX_infantry_entity"
+	name = "X25_infantry_entity"
+}
+entity = { 
+	clone = "MEX_infantry_2_entity"
+	name = "X25_infantry_2_entity"
+}
+entity = { 
+	clone = "MEX_infantry_3_entity"
+	name = "X25_infantry_3_entity"
+}
+entity = { 
+	clone = "MEX_cavalry_entity"
+	name = "X25_cavalry_entity"
+}
+entity = { 
+	clone = "MEX_cavalry_2_entity"
+	name = "X25_cavalry_2_entity"
+}
+
+entity = { 
+	clone = "MEX_heavy_plane_entity"
+	name = "X25_light_plane_entity"
+	scale = 0.13
+}

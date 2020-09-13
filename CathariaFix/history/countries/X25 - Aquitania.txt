@@ -235,7 +235,7 @@ set_war_support = 0.55
 create_country_leader = {
     name = "Estève Lhande"
     desc = "POLITICS_ESTèVE_LHANDE_DESC"
-    picture = "gfx/leaders/FRA/Portrait_France_Edouard_Daladier.dds"
+    picture = "arcibad_church.dds"
     expire = "1965.1.1"
     ideology = socialism
     traits = {
@@ -243,7 +243,7 @@ create_country_leader = {
 }
 create_corps_commander = {
 	name = "Folc de Linça"
-	picture = ""
+	picture = "salvation_army_01.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -253,19 +253,20 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Carles Cathena"
-	picture = ""
+	name = "Astrugha Cathena"
+	picture = "salvation_army_17.dds"
 	traits = { }
 	skill = 2
 	attack_skill = 1
 	defense_skill = 3
 	planning_skill = 2
 	logistics_skill = 1
+	female = yes
 }
 
 create_corps_commander = {
 	name = "Antòni Betbeder"
-	picture = ""
+	picture = "salvation_army_04.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -276,7 +277,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Guilabert Hugonis"
-	picture = ""
+	picture = "salvation_army_05.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 2
@@ -287,7 +288,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Gregòri Massard"
-	picture = ""
+	picture = "salvation_army_06.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -298,7 +299,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Savarics Milheyrol"
-	picture = ""
+	picture = "salvation_army_07.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -309,7 +310,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Gregòri del Bocau"
-	picture = ""
+	picture = "salvation_army_08.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -320,7 +321,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Gabriel de Maruèlh"
-	picture = ""
+	picture = "salvation_army_09.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 2
@@ -331,7 +332,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Robèrt de Severac"
-	picture = ""
+	picture = "salvation_army_20.dds"
 	traits = { }
 	skill = 2
 	attack_skill = 2
@@ -342,7 +343,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Grifon Peyrouton"
-	picture = ""
+	picture = "salvation_army_18.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -353,7 +354,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Victor Gudin"
-	picture = ""
+	picture = "salvation_army_15.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -364,7 +365,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Robèrt Cazalet"
-	picture = ""
+	picture = "salvation_army_14_USA.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -375,7 +376,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Segui de Montuèg"
-	picture = ""
+	picture = "salvation_army_11.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -385,404 +386,95 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Anfòs de Rambert"
-	picture = ""
+	name = "Lucia de Rambert"
+	picture = "salvation_army_02.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
 	defense_skill = 2
 	planning_skill = 1
 	logistics_skill = 1
+	female = yes
 }
 
 create_corps_commander = {
-	name = "Eugèni de Sindèras"
-	picture = ""
+	name = "Eugènia de Sindèras"
+	picture = "salvation_army_03.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 2
 	defense_skill = 2
 	planning_skill = 2
 	logistics_skill = 1
+	female = yes
 }
 
 create_corps_commander = {
-	name = "Anfòs Cantat"
-	picture = ""
+	name = "Pia Cantat"
+	picture = "salvation_army_16.dds"
 	traits = { }
 	skill = 2
 	attack_skill = 1
 	defense_skill = 1
 	planning_skill = 1
 	logistics_skill = 1
+	female = yes
 }
 
 create_corps_commander = {
-	name = "Pèire de Sirvento"
-	picture = ""
+	name = "Petra de Sirvento"
+	picture = "salvation_army_19.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
 	defense_skill = 1
 	planning_skill = 2
 	logistics_skill = 1
+	female = yes
 }
 
 create_corps_commander = {
-	name = "Bernat Bédard"
-	picture = ""
+	name = "Bernardina Bédard"
+	picture = "salvation_army_21.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
 	defense_skill = 1
 	planning_skill = 1
 	logistics_skill = 1
+	female = yes
 }
 
 create_corps_commander = {
-	name = "Miquel de Sindèras"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 2
-	logistics_skill = 2
-}
-
-create_corps_commander = {
-	name = "Raimond Lassus"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Centolh Borel"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 2
-	planning_skill = 2
-	logistics_skill = 2
-}
-
-create_corps_commander = {
-	name = "Tibèri Olharan"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Carles Coral"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	planning_skill = 2
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Benjami Mynhot"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Zefirin de Maruèlh"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Fabian Poeymirau"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 2
-	planning_skill = 1
-	logistics_skill = 2
-}
-
-create_corps_commander = {
-	name = "Tibèri de Mimbasta"
-	picture = ""
+	name = "Anastasia Garchot"
+	picture = "salvation_army_22.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
 	defense_skill = 1
 	planning_skill = 2
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Centolh Lhande"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Carles Petitaut"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	planning_skill = 2
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Benjami Gabard"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 2
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Frédéric Corneille"
-	picture = ""
-	traits = { }
-	skill = 2
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 3
 	logistics_skill = 2
+	female = yes
 }
 
 create_corps_commander = {
-	name = "Deodat de Linça"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 1
-	planning_skill = 2
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Felip Rival"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Gregòri Maunas"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 2
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Alaric Viaule"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Tibèri Corneille"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 2
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Alberic d'Arbocava"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Joan Bonassa"
-	picture = ""
+	name = "Ramona Lassus"
+	picture = "salvation_army_23_firefighter.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
 	defense_skill = 2
 	planning_skill = 1
 	logistics_skill = 1
+	female = yes
 }
 
-create_corps_commander = {
-	name = "Amalric Lacrabère"
-	picture = ""
-	traits = { }
-	skill = 2
-	attack_skill = 2
-	defense_skill = 1
-	planning_skill = 3
-	logistics_skill = 3
-}
 
-create_corps_commander = {
-	name = "Segui d'Arbocava"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Alaric Godolin"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Astier Viard"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Galhardus Viard"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Savarics de Galhèra"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Albèrt Odonis"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Anfòs Auriacombe"
-	picture = ""
-	traits = { }
-	skill = 5
-	attack_skill = 3
-	defense_skill = 4
-	planning_skill = 3
-	logistics_skill = 5
-}
-
-create_corps_commander = {
-	name = "Grifon Saimbert"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Anfòs Gabard"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	planning_skill = 1
-	logistics_skill = 1
-}
-
-create_corps_commander = {
-	name = "Fèliç Daval"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 2
-	planning_skill = 1
-	logistics_skill = 2
-}
+## NAVY ###
 
 create_navy_leader = {
 	name = "Brut Godolin"
-	picture = ""
+	picture = "X25_navy_01.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -793,7 +485,7 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Manual Verdier"
-	picture = ""
+	picture = "X25_navy_02.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -804,7 +496,7 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Centolh Odonis"
-	picture = ""
+	picture = "X25_navy_03.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -815,7 +507,7 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Joan Gudin"
-	picture = ""
+	picture = "X25_navy_04.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -826,7 +518,7 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Matfre Moudenc"
-	picture = ""
+	picture = "X25_navy_05.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -837,7 +529,7 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Joan Azémar"
-	picture = ""
+	picture = "X25_navy_06.dds"
 	traits = { }
 	skill = 1
 	attack_skill = 1
@@ -848,7 +540,7 @@ create_navy_leader = {
 
 create_navy_leader = {
 	name = "Bernat Rosson"
-	picture = ""
+	picture = "X25_navy_07.dds"
 	traits = { }
 	skill = 2
 	attack_skill = 3
@@ -857,379 +549,6 @@ create_navy_leader = {
 	coordination_skill = 2
 }
 
-create_navy_leader = {
-	name = "Antòni Godolin"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Frédéric de Severac"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Brut Latas"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 2
-	maneuvering_skill = 2
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Robèrt Betbeder"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Alaric Peyrouton"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	maneuvering_skill = 2
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Thomé Louit"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Guirat Miot"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Edoard d'Urgons"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Robèrt Hugonis"
-	picture = ""
-	traits = { }
-	skill = 2
-	attack_skill = 1
-	defense_skill = 3
-	maneuvering_skill = 2
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Bonaventura Betbeder"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	maneuvering_skill = 2
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Luc Correjas"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Joan Rival"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 1
-	maneuvering_skill = 2
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Victor de Maruèlh"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 2
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Eugèni de Rambert"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 2
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Bonifaci Cazalet"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Deodat Moudenc"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Brut Gonzales"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Carles Lassus"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Amalric Coral"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 2
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Fabian Lacrabère"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Amalric Costa"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 2
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Centolh de Rambert"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Albèrt Botas"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Albèrt Sarrieu"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Armand Saimbert"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Brunò de Castèths"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Gabriel Petitaut"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 2
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Fabian Moudenc"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 2
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Durandus de Gassion"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Brunò Corneille"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 2
-	coordination_skill = 2
-}
-
-create_navy_leader = {
-	name = "Centolh Bastiat"
-	picture = ""
-	traits = { }
-	skill = 2
-	attack_skill = 2
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Zefirin Fontan"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Loís d'Arbocava"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
-
-create_navy_leader = {
-	name = "Fèliç Garchot"
-	picture = ""
-	traits = { }
-	skill = 1
-	attack_skill = 1
-	defense_skill = 1
-	maneuvering_skill = 1
-	coordination_skill = 1
-}
 
 ### VARIANTS ###
 if = {
