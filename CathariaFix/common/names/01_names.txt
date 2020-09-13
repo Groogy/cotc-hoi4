@@ -807,13 +807,26 @@ U78 = {
 USA = {
 	male = {
 		names = {
+			Aagha Adlee Ahmet Altan Balian Baris Burak Candana Cahil Cetin Ceyhun Duman Demir Efe Eldar 
+			Gyula Galip Hakan Hosmunt Hasad Halil Ihsan Ibrahim Kaan Kahraman Latafat Levent Latifah 
+			Mesut Murat Mesich Neval Niroop Nijaz Okan Osmanek Ozan Rifaat Safet Suleyman Sevket
+			Tanju Truong Tabeeb Yadgar Yusef Yildiz Zehab Zeki Mustafa
 		}
 	}
 	female = {
 		names = {
+			Elif Zeynep Hiranur Miray Zehra Ecrin Azra Eylul Defne Nehir Yagmur Meryem Nisanur Belinay
+			Asya Hira Belinay Rabia Eslem Beren Esma Ela Ayse Buglem Melek Sumeyye Oyku Merve Fatma
+			Hatice Betul Zumra Esmanur Elanur Esila Ada Nisa Erva Busra Emine Duru Kubra Derin Yaren 
+			Melisa Irem Cemre
 		}
 	}
 	surnames = {
+		Ozdemir Aydin Osturk Aksay Polat Kaya Yildiz Sahin Demir Yildirim Yavuz Arslan Kaplan Kilic
+		Kose Bulut Koc Cetin Can Lund Holm Qvist Ostergaard Vestergaard Kjaer Norgaard Sondergaard
+		Toft Brandt Berg Skov Bang Juul Riis Dahl Bruun Tamm Saar Sepp Kask Magi Kukk Rebane Koppel 
+		Karu  Ilves Lepik Oja Kuusk Kaasik Genessee Donehogawa Guyasuta Hasanoanda Otetiani
+		Honayawas Gyantwachia Kaintwakon Kanuksusy 
 	}
 	callsigns = {
 	}
